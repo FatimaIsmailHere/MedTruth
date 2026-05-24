@@ -1,0 +1,3001 @@
+eval_id,claim,true_label,source_type
+1,Vaccination reduces risk of infectious diseases,reliable,youtube
+2,Vaccination reduces risk of infectious diseases,reliable,forum
+3,Vaccination reduces risk of infectious diseases,reliable,medical_source
+4,turmeric may help improve concentration,uncertain,health_journal
+5,Green tea might support metabolism,uncertain,tiktok
+6,Intermittent fasting may improve some health markers,uncertain,youtube
+7,Intermittent fasting may improve some health markers,uncertain,tiktok
+8,Certain herbal remedies may reduce stress,uncertain,forum
+9,turmeric could help with digestion,uncertain,health_journal
+10,Washing hands reduces spread of bacteria and viruses,reliable,blog
+11,honey cures all diseases,myth,health_journal
+12,Exercise helps maintain cardiovascular health,reliable,social_media
+13,turmeric could help with digestion,uncertain,medical_source
+14,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+15,garlic instantly lowers blood sugar,myth,tiktok
+16,honey instantly lowers blood sugar,myth,social_media
+17,honey may help improve concentration,uncertain,blog
+18,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+19,Doctors hide natural cures from patients,myth,youtube
+20,garlic cures all diseases,myth,blog
+21,turmeric could help with digestion,uncertain,health_journal
+22,Exercise helps maintain cardiovascular health,reliable,forum
+23,Doctors hide natural cures from patients,myth,health_journal
+24,Exercise helps maintain cardiovascular health,reliable,tiktok
+25,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+26,apple cider vinegar cures all diseases,myth,tiktok
+27,Vaccination reduces risk of infectious diseases,reliable,tiktok
+28,Doctors hide natural cures from patients,myth,tiktok
+29,Regular sleep supports brain function,reliable,social_media
+30,Drinking only juice detoxes the body completely,myth,blog
+31,green tea could help with digestion,uncertain,social_media
+32,garlic could help with digestion,uncertain,forum
+33,Certain herbal remedies may reduce stress,uncertain,blog
+34,Exercise helps maintain cardiovascular health,reliable,tiktok
+35,Green tea might support metabolism,uncertain,youtube
+36,Doctors hide natural cures from patients,myth,blog
+37,Green tea might support metabolism,uncertain,medical_source
+38,Eating fruits and vegetables supports immunity,reliable,forum
+39,lemon water cures all diseases,myth,forum
+40,lemon water instantly lowers blood sugar,myth,tiktok
+41,Regular sleep supports brain function,reliable,youtube
+42,honey could help with digestion,uncertain,medical_source
+43,green tea instantly lowers blood sugar,myth,social_media
+44,Vaccines permanently weaken the immune system,myth,forum
+45,Certain herbal remedies may reduce stress,uncertain,tiktok
+46,apple cider vinegar could help with digestion,uncertain,youtube
+47,Eating fruits and vegetables supports immunity,reliable,tiktok
+48,Vaccination reduces risk of infectious diseases,reliable,youtube
+49,turmeric could help with digestion,uncertain,health_journal
+50,Eating fruits and vegetables supports immunity,reliable,youtube
+51,Regular sleep supports brain function,reliable,social_media
+52,Doctors hide natural cures from patients,myth,medical_source
+53,Exercise helps maintain cardiovascular health,reliable,youtube
+54,Vaccines permanently weaken the immune system,myth,tiktok
+55,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+56,Exercise helps maintain cardiovascular health,reliable,blog
+57,honey could help with digestion,uncertain,youtube
+58,green tea instantly lowers blood sugar,myth,health_journal
+59,Vaccines permanently weaken the immune system,myth,youtube
+60,Eating fruits and vegetables supports immunity,reliable,youtube
+61,Vaccines permanently weaken the immune system,myth,social_media
+62,turmeric could help with digestion,uncertain,forum
+63,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+64,turmeric could help with digestion,uncertain,blog
+65,Certain herbal remedies may reduce stress,uncertain,blog
+66,Vaccines permanently weaken the immune system,myth,tiktok
+67,Vaccines permanently weaken the immune system,myth,blog
+68,Regular sleep supports brain function,reliable,social_media
+69,Certain herbal remedies may reduce stress,uncertain,forum
+70,Vaccines permanently weaken the immune system,myth,forum
+71,Exercise helps maintain cardiovascular health,reliable,medical_source
+72,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+73,apple cider vinegar may help improve concentration,uncertain,tiktok
+74,Green tea might support metabolism,uncertain,medical_source
+75,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+76,Certain herbal remedies may reduce stress,uncertain,blog
+77,Exercise helps maintain cardiovascular health,reliable,medical_source
+78,Vaccination reduces risk of infectious diseases,reliable,medical_source
+79,Green tea might support metabolism,uncertain,medical_source
+80,Drinking only juice detoxes the body completely,myth,medical_source
+81,Intermittent fasting may improve some health markers,uncertain,social_media
+82,Exercise helps maintain cardiovascular health,reliable,tiktok
+83,ginger tea instantly lowers blood sugar,myth,youtube
+84,Drinking only juice detoxes the body completely,myth,forum
+85,honey cures all diseases,myth,forum
+86,lemon water cures all diseases,myth,tiktok
+87,Intermittent fasting may improve some health markers,uncertain,blog
+88,Drinking only juice detoxes the body completely,myth,forum
+89,Certain herbal remedies may reduce stress,uncertain,youtube
+90,Washing hands reduces spread of bacteria and viruses,reliable,forum
+91,ginger tea instantly lowers blood sugar,myth,health_journal
+92,Intermittent fasting may improve some health markers,uncertain,blog
+93,Certain herbal remedies may reduce stress,uncertain,blog
+94,Eating fruits and vegetables supports immunity,reliable,health_journal
+95,Intermittent fasting may improve some health markers,uncertain,health_journal
+96,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+97,Doctors hide natural cures from patients,myth,tiktok
+98,Doctors hide natural cures from patients,myth,forum
+99,Drinking only juice detoxes the body completely,myth,social_media
+100,Vaccination reduces risk of infectious diseases,reliable,medical_source
+101,Vaccines permanently weaken the immune system,myth,social_media
+102,ginger tea instantly lowers blood sugar,myth,tiktok
+103,Intermittent fasting may improve some health markers,uncertain,blog
+104,green tea may help improve concentration,uncertain,blog
+105,lemon water may help improve concentration,uncertain,social_media
+106,Vaccination reduces risk of infectious diseases,reliable,blog
+107,Green tea might support metabolism,uncertain,youtube
+108,Vaccination reduces risk of infectious diseases,reliable,tiktok
+109,Green tea might support metabolism,uncertain,forum
+110,lemon water could help with digestion,uncertain,blog
+111,lemon water could help with digestion,uncertain,youtube
+112,Drinking only juice detoxes the body completely,myth,tiktok
+113,ginger tea could help with digestion,uncertain,tiktok
+114,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+115,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+116,Certain herbal remedies may reduce stress,uncertain,medical_source
+117,ginger tea may help improve concentration,uncertain,social_media
+118,Drinking only juice detoxes the body completely,myth,health_journal
+119,Eating fruits and vegetables supports immunity,reliable,medical_source
+120,turmeric cures all diseases,myth,youtube
+121,Certain herbal remedies may reduce stress,uncertain,youtube
+122,Eating fruits and vegetables supports immunity,reliable,blog
+123,Doctors hide natural cures from patients,myth,blog
+124,Regular sleep supports brain function,reliable,tiktok
+125,Doctors hide natural cures from patients,myth,health_journal
+126,Washing hands reduces spread of bacteria and viruses,reliable,blog
+127,Green tea might support metabolism,uncertain,social_media
+128,Certain herbal remedies may reduce stress,uncertain,forum
+129,Eating fruits and vegetables supports immunity,reliable,forum
+130,Drinking only juice detoxes the body completely,myth,social_media
+131,Drinking only juice detoxes the body completely,myth,tiktok
+132,Green tea might support metabolism,uncertain,medical_source
+133,Washing hands reduces spread of bacteria and viruses,reliable,forum
+134,Doctors hide natural cures from patients,myth,tiktok
+135,Eating fruits and vegetables supports immunity,reliable,forum
+136,Drinking only juice detoxes the body completely,myth,social_media
+137,Doctors hide natural cures from patients,myth,youtube
+138,ginger tea could help with digestion,uncertain,health_journal
+139,Eating fruits and vegetables supports immunity,reliable,medical_source
+140,Intermittent fasting may improve some health markers,uncertain,social_media
+141,Exercise helps maintain cardiovascular health,reliable,tiktok
+142,apple cider vinegar instantly lowers blood sugar,myth,forum
+143,Vaccines permanently weaken the immune system,myth,health_journal
+144,ginger tea may help improve concentration,uncertain,social_media
+145,Intermittent fasting may improve some health markers,uncertain,medical_source
+146,Green tea might support metabolism,uncertain,social_media
+147,Green tea might support metabolism,uncertain,social_media
+148,Certain herbal remedies may reduce stress,uncertain,social_media
+149,lemon water instantly lowers blood sugar,myth,health_journal
+150,Vaccines permanently weaken the immune system,myth,youtube
+151,Eating fruits and vegetables supports immunity,reliable,forum
+152,Regular sleep supports brain function,reliable,social_media
+153,lemon water could help with digestion,uncertain,health_journal
+154,lemon water cures all diseases,myth,blog
+155,Eating fruits and vegetables supports immunity,reliable,social_media
+156,green tea may help improve concentration,uncertain,tiktok
+157,Vaccination reduces risk of infectious diseases,reliable,tiktok
+158,Certain herbal remedies may reduce stress,uncertain,social_media
+159,Intermittent fasting may improve some health markers,uncertain,forum
+160,Intermittent fasting may improve some health markers,uncertain,youtube
+161,Vaccination reduces risk of infectious diseases,reliable,social_media
+162,Certain herbal remedies may reduce stress,uncertain,medical_source
+163,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+164,lemon water cures all diseases,myth,blog
+165,Green tea might support metabolism,uncertain,medical_source
+166,Green tea might support metabolism,uncertain,youtube
+167,Vaccination reduces risk of infectious diseases,reliable,health_journal
+168,Eating fruits and vegetables supports immunity,reliable,youtube
+169,Green tea might support metabolism,uncertain,social_media
+170,Green tea might support metabolism,uncertain,health_journal
+171,Eating fruits and vegetables supports immunity,reliable,blog
+172,Regular sleep supports brain function,reliable,health_journal
+173,Green tea might support metabolism,uncertain,youtube
+174,lemon water could help with digestion,uncertain,blog
+175,Regular sleep supports brain function,reliable,social_media
+176,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+177,Doctors hide natural cures from patients,myth,youtube
+178,apple cider vinegar could help with digestion,uncertain,forum
+179,Drinking only juice detoxes the body completely,myth,blog
+180,Eating fruits and vegetables supports immunity,reliable,forum
+181,Regular sleep supports brain function,reliable,medical_source
+182,Green tea might support metabolism,uncertain,youtube
+183,apple cider vinegar may help improve concentration,uncertain,tiktok
+184,Drinking only juice detoxes the body completely,myth,blog
+185,Certain herbal remedies may reduce stress,uncertain,blog
+186,lemon water could help with digestion,uncertain,social_media
+187,Vaccines permanently weaken the immune system,myth,medical_source
+188,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+189,Vaccines permanently weaken the immune system,myth,health_journal
+190,turmeric instantly lowers blood sugar,myth,health_journal
+191,honey cures all diseases,myth,blog
+192,honey instantly lowers blood sugar,myth,youtube
+193,Green tea might support metabolism,uncertain,tiktok
+194,Exercise helps maintain cardiovascular health,reliable,blog
+195,garlic cures all diseases,myth,tiktok
+196,Green tea might support metabolism,uncertain,health_journal
+197,Intermittent fasting may improve some health markers,uncertain,medical_source
+198,Intermittent fasting may improve some health markers,uncertain,social_media
+199,Drinking only juice detoxes the body completely,myth,tiktok
+200,Certain herbal remedies may reduce stress,uncertain,blog
+201,Eating fruits and vegetables supports immunity,reliable,forum
+202,Washing hands reduces spread of bacteria and viruses,reliable,forum
+203,Eating fruits and vegetables supports immunity,reliable,medical_source
+204,Vaccination reduces risk of infectious diseases,reliable,youtube
+205,Regular sleep supports brain function,reliable,youtube
+206,Eating fruits and vegetables supports immunity,reliable,youtube
+207,turmeric instantly lowers blood sugar,myth,social_media
+208,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+209,Eating fruits and vegetables supports immunity,reliable,medical_source
+210,Vaccines permanently weaken the immune system,myth,blog
+211,Eating fruits and vegetables supports immunity,reliable,health_journal
+212,Vaccination reduces risk of infectious diseases,reliable,tiktok
+213,Intermittent fasting may improve some health markers,uncertain,youtube
+214,garlic instantly lowers blood sugar,myth,tiktok
+215,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+216,Vaccines permanently weaken the immune system,myth,medical_source
+217,Eating fruits and vegetables supports immunity,reliable,blog
+218,Vaccination reduces risk of infectious diseases,reliable,tiktok
+219,Regular sleep supports brain function,reliable,blog
+220,Intermittent fasting may improve some health markers,uncertain,forum
+221,Washing hands reduces spread of bacteria and viruses,reliable,blog
+222,Exercise helps maintain cardiovascular health,reliable,medical_source
+223,Green tea might support metabolism,uncertain,youtube
+224,Green tea might support metabolism,uncertain,medical_source
+225,Vaccination reduces risk of infectious diseases,reliable,tiktok
+226,Doctors hide natural cures from patients,myth,forum
+227,Drinking only juice detoxes the body completely,myth,forum
+228,ginger tea instantly lowers blood sugar,myth,social_media
+229,turmeric cures all diseases,myth,health_journal
+230,honey cures all diseases,myth,forum
+231,Intermittent fasting may improve some health markers,uncertain,tiktok
+232,Certain herbal remedies may reduce stress,uncertain,health_journal
+233,Certain herbal remedies may reduce stress,uncertain,social_media
+234,Intermittent fasting may improve some health markers,uncertain,social_media
+235,green tea instantly lowers blood sugar,myth,health_journal
+236,Drinking only juice detoxes the body completely,myth,tiktok
+237,Vaccines permanently weaken the immune system,myth,forum
+238,Vaccination reduces risk of infectious diseases,reliable,forum
+239,Doctors hide natural cures from patients,myth,forum
+240,green tea may help improve concentration,uncertain,forum
+241,ginger tea instantly lowers blood sugar,myth,blog
+242,honey could help with digestion,uncertain,blog
+243,Certain herbal remedies may reduce stress,uncertain,youtube
+244,garlic may help improve concentration,uncertain,forum
+245,green tea could help with digestion,uncertain,health_journal
+246,Certain herbal remedies may reduce stress,uncertain,blog
+247,Vaccination reduces risk of infectious diseases,reliable,medical_source
+248,Vaccines permanently weaken the immune system,myth,tiktok
+249,Certain herbal remedies may reduce stress,uncertain,blog
+250,Exercise helps maintain cardiovascular health,reliable,health_journal
+251,turmeric could help with digestion,uncertain,tiktok
+252,Vaccination reduces risk of infectious diseases,reliable,tiktok
+253,Regular sleep supports brain function,reliable,social_media
+254,Eating fruits and vegetables supports immunity,reliable,forum
+255,honey instantly lowers blood sugar,myth,forum
+256,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+257,apple cider vinegar cures all diseases,myth,blog
+258,Vaccination reduces risk of infectious diseases,reliable,tiktok
+259,Vaccines permanently weaken the immune system,myth,health_journal
+260,apple cider vinegar instantly lowers blood sugar,myth,blog
+261,Doctors hide natural cures from patients,myth,blog
+262,turmeric could help with digestion,uncertain,forum
+263,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+264,Exercise helps maintain cardiovascular health,reliable,forum
+265,Exercise helps maintain cardiovascular health,reliable,social_media
+266,Exercise helps maintain cardiovascular health,reliable,blog
+267,Doctors hide natural cures from patients,myth,health_journal
+268,Vaccination reduces risk of infectious diseases,reliable,forum
+269,Intermittent fasting may improve some health markers,uncertain,medical_source
+270,Green tea might support metabolism,uncertain,tiktok
+271,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+272,Washing hands reduces spread of bacteria and viruses,reliable,forum
+273,Green tea might support metabolism,uncertain,tiktok
+274,Eating fruits and vegetables supports immunity,reliable,forum
+275,Green tea might support metabolism,uncertain,health_journal
+276,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+277,green tea instantly lowers blood sugar,myth,tiktok
+278,ginger tea may help improve concentration,uncertain,tiktok
+279,Washing hands reduces spread of bacteria and viruses,reliable,forum
+280,lemon water instantly lowers blood sugar,myth,social_media
+281,Certain herbal remedies may reduce stress,uncertain,youtube
+282,Exercise helps maintain cardiovascular health,reliable,tiktok
+283,Green tea might support metabolism,uncertain,youtube
+284,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+285,green tea instantly lowers blood sugar,myth,medical_source
+286,Vaccines permanently weaken the immune system,myth,youtube
+287,Vaccination reduces risk of infectious diseases,reliable,medical_source
+288,ginger tea instantly lowers blood sugar,myth,youtube
+289,Regular sleep supports brain function,reliable,social_media
+290,green tea instantly lowers blood sugar,myth,forum
+291,turmeric could help with digestion,uncertain,blog
+292,turmeric could help with digestion,uncertain,youtube
+293,Intermittent fasting may improve some health markers,uncertain,youtube
+294,turmeric may help improve concentration,uncertain,youtube
+295,Intermittent fasting may improve some health markers,uncertain,health_journal
+296,Regular sleep supports brain function,reliable,youtube
+297,Intermittent fasting may improve some health markers,uncertain,tiktok
+298,Vaccination reduces risk of infectious diseases,reliable,forum
+299,Vaccines permanently weaken the immune system,myth,medical_source
+300,Green tea might support metabolism,uncertain,youtube
+301,garlic may help improve concentration,uncertain,medical_source
+302,lemon water may help improve concentration,uncertain,blog
+303,Drinking only juice detoxes the body completely,myth,forum
+304,ginger tea may help improve concentration,uncertain,social_media
+305,Certain herbal remedies may reduce stress,uncertain,youtube
+306,Regular sleep supports brain function,reliable,social_media
+307,Eating fruits and vegetables supports immunity,reliable,blog
+308,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+309,Certain herbal remedies may reduce stress,uncertain,forum
+310,Certain herbal remedies may reduce stress,uncertain,forum
+311,Intermittent fasting may improve some health markers,uncertain,social_media
+312,green tea instantly lowers blood sugar,myth,forum
+313,lemon water cures all diseases,myth,medical_source
+314,Drinking only juice detoxes the body completely,myth,health_journal
+315,Regular sleep supports brain function,reliable,health_journal
+316,honey could help with digestion,uncertain,tiktok
+317,Drinking only juice detoxes the body completely,myth,tiktok
+318,Drinking only juice detoxes the body completely,myth,tiktok
+319,Exercise helps maintain cardiovascular health,reliable,social_media
+320,Certain herbal remedies may reduce stress,uncertain,social_media
+321,Vaccines permanently weaken the immune system,myth,medical_source
+322,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+323,turmeric could help with digestion,uncertain,social_media
+324,Doctors hide natural cures from patients,myth,health_journal
+325,Exercise helps maintain cardiovascular health,reliable,tiktok
+326,green tea could help with digestion,uncertain,forum
+327,ginger tea instantly lowers blood sugar,myth,medical_source
+328,garlic cures all diseases,myth,youtube
+329,green tea could help with digestion,uncertain,youtube
+330,Doctors hide natural cures from patients,myth,blog
+331,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+332,Intermittent fasting may improve some health markers,uncertain,forum
+333,Green tea might support metabolism,uncertain,health_journal
+334,Vaccines permanently weaken the immune system,myth,social_media
+335,Certain herbal remedies may reduce stress,uncertain,blog
+336,Doctors hide natural cures from patients,myth,forum
+337,honey could help with digestion,uncertain,social_media
+338,Doctors hide natural cures from patients,myth,health_journal
+339,Exercise helps maintain cardiovascular health,reliable,medical_source
+340,Intermittent fasting may improve some health markers,uncertain,medical_source
+341,green tea cures all diseases,myth,health_journal
+342,Drinking only juice detoxes the body completely,myth,blog
+343,Vaccines permanently weaken the immune system,myth,social_media
+344,honey may help improve concentration,uncertain,medical_source
+345,Vaccines permanently weaken the immune system,myth,blog
+346,apple cider vinegar could help with digestion,uncertain,health_journal
+347,Vaccines permanently weaken the immune system,myth,social_media
+348,apple cider vinegar could help with digestion,uncertain,youtube
+349,Vaccines permanently weaken the immune system,myth,health_journal
+350,Doctors hide natural cures from patients,myth,youtube
+351,apple cider vinegar may help improve concentration,uncertain,tiktok
+352,Green tea might support metabolism,uncertain,medical_source
+353,Intermittent fasting may improve some health markers,uncertain,social_media
+354,garlic may help improve concentration,uncertain,forum
+355,Washing hands reduces spread of bacteria and viruses,reliable,forum
+356,Doctors hide natural cures from patients,myth,medical_source
+357,Green tea might support metabolism,uncertain,health_journal
+358,Doctors hide natural cures from patients,myth,tiktok
+359,Drinking only juice detoxes the body completely,myth,forum
+360,Green tea might support metabolism,uncertain,blog
+361,lemon water cures all diseases,myth,health_journal
+362,Vaccines permanently weaken the immune system,myth,tiktok
+363,Green tea might support metabolism,uncertain,social_media
+364,Intermittent fasting may improve some health markers,uncertain,blog
+365,lemon water instantly lowers blood sugar,myth,youtube
+366,Drinking only juice detoxes the body completely,myth,social_media
+367,Certain herbal remedies may reduce stress,uncertain,medical_source
+368,Vaccines permanently weaken the immune system,myth,social_media
+369,Doctors hide natural cures from patients,myth,youtube
+370,Intermittent fasting may improve some health markers,uncertain,forum
+371,ginger tea instantly lowers blood sugar,myth,tiktok
+372,Vaccination reduces risk of infectious diseases,reliable,youtube
+373,Exercise helps maintain cardiovascular health,reliable,youtube
+374,Doctors hide natural cures from patients,myth,forum
+375,Eating fruits and vegetables supports immunity,reliable,blog
+376,Eating fruits and vegetables supports immunity,reliable,social_media
+377,Vaccines permanently weaken the immune system,myth,medical_source
+378,Drinking only juice detoxes the body completely,myth,youtube
+379,Doctors hide natural cures from patients,myth,health_journal
+380,apple cider vinegar could help with digestion,uncertain,health_journal
+381,Doctors hide natural cures from patients,myth,tiktok
+382,green tea could help with digestion,uncertain,medical_source
+383,honey instantly lowers blood sugar,myth,tiktok
+384,ginger tea cures all diseases,myth,tiktok
+385,Drinking only juice detoxes the body completely,myth,forum
+386,honey may help improve concentration,uncertain,forum
+387,Vaccines permanently weaken the immune system,myth,medical_source
+388,Eating fruits and vegetables supports immunity,reliable,youtube
+389,honey may help improve concentration,uncertain,youtube
+390,Exercise helps maintain cardiovascular health,reliable,health_journal
+391,Exercise helps maintain cardiovascular health,reliable,blog
+392,Vaccines permanently weaken the immune system,myth,social_media
+393,Regular sleep supports brain function,reliable,blog
+394,lemon water could help with digestion,uncertain,youtube
+395,ginger tea cures all diseases,myth,social_media
+396,Vaccination reduces risk of infectious diseases,reliable,health_journal
+397,honey may help improve concentration,uncertain,forum
+398,turmeric may help improve concentration,uncertain,health_journal
+399,ginger tea could help with digestion,uncertain,forum
+400,Drinking only juice detoxes the body completely,myth,health_journal
+401,honey could help with digestion,uncertain,blog
+402,Eating fruits and vegetables supports immunity,reliable,forum
+403,lemon water instantly lowers blood sugar,myth,health_journal
+404,turmeric instantly lowers blood sugar,myth,blog
+405,Vaccination reduces risk of infectious diseases,reliable,social_media
+406,Regular sleep supports brain function,reliable,blog
+407,Intermittent fasting may improve some health markers,uncertain,health_journal
+408,Exercise helps maintain cardiovascular health,reliable,youtube
+409,garlic may help improve concentration,uncertain,forum
+410,Vaccines permanently weaken the immune system,myth,blog
+411,Certain herbal remedies may reduce stress,uncertain,youtube
+412,Certain herbal remedies may reduce stress,uncertain,blog
+413,turmeric cures all diseases,myth,medical_source
+414,Green tea might support metabolism,uncertain,social_media
+415,Doctors hide natural cures from patients,myth,forum
+416,Green tea might support metabolism,uncertain,forum
+417,Doctors hide natural cures from patients,myth,blog
+418,lemon water cures all diseases,myth,social_media
+419,Intermittent fasting may improve some health markers,uncertain,youtube
+420,Exercise helps maintain cardiovascular health,reliable,medical_source
+421,Green tea might support metabolism,uncertain,social_media
+422,Exercise helps maintain cardiovascular health,reliable,tiktok
+423,Vaccination reduces risk of infectious diseases,reliable,tiktok
+424,Vaccines permanently weaken the immune system,myth,youtube
+425,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+426,Regular sleep supports brain function,reliable,youtube
+427,Regular sleep supports brain function,reliable,blog
+428,Eating fruits and vegetables supports immunity,reliable,blog
+429,Certain herbal remedies may reduce stress,uncertain,forum
+430,Eating fruits and vegetables supports immunity,reliable,medical_source
+431,green tea may help improve concentration,uncertain,youtube
+432,Vaccination reduces risk of infectious diseases,reliable,medical_source
+433,Washing hands reduces spread of bacteria and viruses,reliable,forum
+434,Doctors hide natural cures from patients,myth,blog
+435,apple cider vinegar could help with digestion,uncertain,medical_source
+436,Doctors hide natural cures from patients,myth,blog
+437,honey may help improve concentration,uncertain,health_journal
+438,Certain herbal remedies may reduce stress,uncertain,forum
+439,honey may help improve concentration,uncertain,health_journal
+440,Intermittent fasting may improve some health markers,uncertain,medical_source
+441,turmeric cures all diseases,myth,blog
+442,Exercise helps maintain cardiovascular health,reliable,youtube
+443,Green tea might support metabolism,uncertain,social_media
+444,green tea could help with digestion,uncertain,blog
+445,Intermittent fasting may improve some health markers,uncertain,forum
+446,Regular sleep supports brain function,reliable,youtube
+447,Green tea might support metabolism,uncertain,blog
+448,Regular sleep supports brain function,reliable,medical_source
+449,ginger tea instantly lowers blood sugar,myth,forum
+450,Drinking only juice detoxes the body completely,myth,youtube
+451,Certain herbal remedies may reduce stress,uncertain,medical_source
+452,Vaccination reduces risk of infectious diseases,reliable,blog
+453,Certain herbal remedies may reduce stress,uncertain,social_media
+454,honey instantly lowers blood sugar,myth,medical_source
+455,Vaccination reduces risk of infectious diseases,reliable,social_media
+456,Green tea might support metabolism,uncertain,forum
+457,green tea could help with digestion,uncertain,health_journal
+458,Doctors hide natural cures from patients,myth,forum
+459,turmeric may help improve concentration,uncertain,forum
+460,Eating fruits and vegetables supports immunity,reliable,social_media
+461,honey may help improve concentration,uncertain,youtube
+462,turmeric cures all diseases,myth,forum
+463,ginger tea could help with digestion,uncertain,health_journal
+464,green tea could help with digestion,uncertain,medical_source
+465,Vaccines permanently weaken the immune system,myth,health_journal
+466,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+467,Vaccination reduces risk of infectious diseases,reliable,youtube
+468,Intermittent fasting may improve some health markers,uncertain,youtube
+469,apple cider vinegar may help improve concentration,uncertain,social_media
+470,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+471,Exercise helps maintain cardiovascular health,reliable,social_media
+472,apple cider vinegar instantly lowers blood sugar,myth,tiktok
+473,Intermittent fasting may improve some health markers,uncertain,tiktok
+474,green tea could help with digestion,uncertain,youtube
+475,Drinking only juice detoxes the body completely,myth,forum
+476,lemon water instantly lowers blood sugar,myth,tiktok
+477,Doctors hide natural cures from patients,myth,medical_source
+478,turmeric instantly lowers blood sugar,myth,tiktok
+479,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+480,Eating fruits and vegetables supports immunity,reliable,forum
+481,Eating fruits and vegetables supports immunity,reliable,tiktok
+482,Intermittent fasting may improve some health markers,uncertain,tiktok
+483,Eating fruits and vegetables supports immunity,reliable,forum
+484,green tea could help with digestion,uncertain,blog
+485,Exercise helps maintain cardiovascular health,reliable,social_media
+486,turmeric may help improve concentration,uncertain,forum
+487,Vaccination reduces risk of infectious diseases,reliable,forum
+488,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+489,garlic could help with digestion,uncertain,youtube
+490,Green tea might support metabolism,uncertain,medical_source
+491,Doctors hide natural cures from patients,myth,medical_source
+492,lemon water instantly lowers blood sugar,myth,health_journal
+493,Exercise helps maintain cardiovascular health,reliable,health_journal
+494,garlic cures all diseases,myth,youtube
+495,green tea may help improve concentration,uncertain,health_journal
+496,Vaccination reduces risk of infectious diseases,reliable,tiktok
+497,honey instantly lowers blood sugar,myth,forum
+498,honey could help with digestion,uncertain,tiktok
+499,Certain herbal remedies may reduce stress,uncertain,medical_source
+500,Exercise helps maintain cardiovascular health,reliable,youtube
+501,Vaccination reduces risk of infectious diseases,reliable,forum
+502,Green tea might support metabolism,uncertain,medical_source
+503,garlic could help with digestion,uncertain,tiktok
+504,green tea instantly lowers blood sugar,myth,forum
+505,Exercise helps maintain cardiovascular health,reliable,forum
+506,turmeric may help improve concentration,uncertain,youtube
+507,Certain herbal remedies may reduce stress,uncertain,tiktok
+508,turmeric may help improve concentration,uncertain,health_journal
+509,honey cures all diseases,myth,youtube
+510,lemon water instantly lowers blood sugar,myth,forum
+511,Vaccination reduces risk of infectious diseases,reliable,blog
+512,Certain herbal remedies may reduce stress,uncertain,health_journal
+513,ginger tea cures all diseases,myth,medical_source
+514,green tea could help with digestion,uncertain,medical_source
+515,Intermittent fasting may improve some health markers,uncertain,blog
+516,Eating fruits and vegetables supports immunity,reliable,social_media
+517,turmeric instantly lowers blood sugar,myth,tiktok
+518,apple cider vinegar instantly lowers blood sugar,myth,social_media
+519,honey could help with digestion,uncertain,social_media
+520,Certain herbal remedies may reduce stress,uncertain,tiktok
+521,Green tea might support metabolism,uncertain,tiktok
+522,Green tea might support metabolism,uncertain,medical_source
+523,Exercise helps maintain cardiovascular health,reliable,forum
+524,Vaccination reduces risk of infectious diseases,reliable,forum
+525,Doctors hide natural cures from patients,myth,social_media
+526,Eating fruits and vegetables supports immunity,reliable,tiktok
+527,garlic could help with digestion,uncertain,youtube
+528,Certain herbal remedies may reduce stress,uncertain,tiktok
+529,Drinking only juice detoxes the body completely,myth,social_media
+530,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+531,ginger tea could help with digestion,uncertain,tiktok
+532,Vaccines permanently weaken the immune system,myth,social_media
+533,ginger tea may help improve concentration,uncertain,forum
+534,Certain herbal remedies may reduce stress,uncertain,social_media
+535,Regular sleep supports brain function,reliable,youtube
+536,Drinking only juice detoxes the body completely,myth,social_media
+537,Exercise helps maintain cardiovascular health,reliable,youtube
+538,lemon water may help improve concentration,uncertain,tiktok
+539,Intermittent fasting may improve some health markers,uncertain,forum
+540,honey cures all diseases,myth,social_media
+541,green tea cures all diseases,myth,blog
+542,Drinking only juice detoxes the body completely,myth,youtube
+543,Green tea might support metabolism,uncertain,forum
+544,Drinking only juice detoxes the body completely,myth,social_media
+545,Vaccines permanently weaken the immune system,myth,blog
+546,Vaccination reduces risk of infectious diseases,reliable,tiktok
+547,lemon water may help improve concentration,uncertain,youtube
+548,Doctors hide natural cures from patients,myth,tiktok
+549,Vaccines permanently weaken the immune system,myth,tiktok
+550,Drinking only juice detoxes the body completely,myth,tiktok
+551,Vaccines permanently weaken the immune system,myth,medical_source
+552,Vaccines permanently weaken the immune system,myth,medical_source
+553,Eating fruits and vegetables supports immunity,reliable,social_media
+554,garlic could help with digestion,uncertain,health_journal
+555,Eating fruits and vegetables supports immunity,reliable,medical_source
+556,Vaccination reduces risk of infectious diseases,reliable,forum
+557,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+558,Washing hands reduces spread of bacteria and viruses,reliable,blog
+559,Intermittent fasting may improve some health markers,uncertain,forum
+560,Eating fruits and vegetables supports immunity,reliable,blog
+561,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+562,Regular sleep supports brain function,reliable,tiktok
+563,ginger tea cures all diseases,myth,social_media
+564,Eating fruits and vegetables supports immunity,reliable,social_media
+565,Drinking only juice detoxes the body completely,myth,blog
+566,Regular sleep supports brain function,reliable,forum
+567,Washing hands reduces spread of bacteria and viruses,reliable,forum
+568,Vaccination reduces risk of infectious diseases,reliable,medical_source
+569,Drinking only juice detoxes the body completely,myth,forum
+570,Certain herbal remedies may reduce stress,uncertain,health_journal
+571,Drinking only juice detoxes the body completely,myth,social_media
+572,Vaccination reduces risk of infectious diseases,reliable,health_journal
+573,Exercise helps maintain cardiovascular health,reliable,health_journal
+574,Vaccines permanently weaken the immune system,myth,blog
+575,ginger tea could help with digestion,uncertain,medical_source
+576,Drinking only juice detoxes the body completely,myth,social_media
+577,Drinking only juice detoxes the body completely,myth,youtube
+578,Vaccination reduces risk of infectious diseases,reliable,tiktok
+579,Exercise helps maintain cardiovascular health,reliable,forum
+580,Intermittent fasting may improve some health markers,uncertain,medical_source
+581,garlic may help improve concentration,uncertain,health_journal
+582,garlic could help with digestion,uncertain,medical_source
+583,Eating fruits and vegetables supports immunity,reliable,medical_source
+584,Eating fruits and vegetables supports immunity,reliable,health_journal
+585,honey may help improve concentration,uncertain,medical_source
+586,Exercise helps maintain cardiovascular health,reliable,social_media
+587,apple cider vinegar instantly lowers blood sugar,myth,health_journal
+588,turmeric could help with digestion,uncertain,health_journal
+589,Vaccination reduces risk of infectious diseases,reliable,tiktok
+590,lemon water may help improve concentration,uncertain,social_media
+591,apple cider vinegar may help improve concentration,uncertain,youtube
+592,Vaccination reduces risk of infectious diseases,reliable,tiktok
+593,Regular sleep supports brain function,reliable,forum
+594,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+595,Vaccines permanently weaken the immune system,myth,forum
+596,Eating fruits and vegetables supports immunity,reliable,tiktok
+597,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+598,Doctors hide natural cures from patients,myth,medical_source
+599,Doctors hide natural cures from patients,myth,youtube
+600,Doctors hide natural cures from patients,myth,blog
+601,Vaccines permanently weaken the immune system,myth,medical_source
+602,Intermittent fasting may improve some health markers,uncertain,blog
+603,apple cider vinegar could help with digestion,uncertain,tiktok
+604,Vaccination reduces risk of infectious diseases,reliable,medical_source
+605,Doctors hide natural cures from patients,myth,health_journal
+606,Vaccines permanently weaken the immune system,myth,tiktok
+607,Intermittent fasting may improve some health markers,uncertain,forum
+608,Eating fruits and vegetables supports immunity,reliable,tiktok
+609,Exercise helps maintain cardiovascular health,reliable,social_media
+610,turmeric could help with digestion,uncertain,medical_source
+611,Exercise helps maintain cardiovascular health,reliable,social_media
+612,Vaccination reduces risk of infectious diseases,reliable,health_journal
+613,honey may help improve concentration,uncertain,social_media
+614,Doctors hide natural cures from patients,myth,social_media
+615,Green tea might support metabolism,uncertain,medical_source
+616,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+617,honey may help improve concentration,uncertain,youtube
+618,turmeric may help improve concentration,uncertain,social_media
+619,Doctors hide natural cures from patients,myth,health_journal
+620,Eating fruits and vegetables supports immunity,reliable,tiktok
+621,Certain herbal remedies may reduce stress,uncertain,tiktok
+622,ginger tea could help with digestion,uncertain,youtube
+623,Regular sleep supports brain function,reliable,social_media
+624,Vaccination reduces risk of infectious diseases,reliable,youtube
+625,Vaccines permanently weaken the immune system,myth,social_media
+626,Eating fruits and vegetables supports immunity,reliable,health_journal
+627,Green tea might support metabolism,uncertain,tiktok
+628,lemon water could help with digestion,uncertain,health_journal
+629,green tea cures all diseases,myth,blog
+630,ginger tea could help with digestion,uncertain,health_journal
+631,ginger tea cures all diseases,myth,forum
+632,Green tea might support metabolism,uncertain,youtube
+633,Drinking only juice detoxes the body completely,myth,social_media
+634,Exercise helps maintain cardiovascular health,reliable,blog
+635,Eating fruits and vegetables supports immunity,reliable,medical_source
+636,Green tea might support metabolism,uncertain,medical_source
+637,turmeric could help with digestion,uncertain,blog
+638,Vaccination reduces risk of infectious diseases,reliable,health_journal
+639,Vaccines permanently weaken the immune system,myth,medical_source
+640,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+641,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+642,Eating fruits and vegetables supports immunity,reliable,social_media
+643,Vaccination reduces risk of infectious diseases,reliable,youtube
+644,Exercise helps maintain cardiovascular health,reliable,youtube
+645,Regular sleep supports brain function,reliable,youtube
+646,Drinking only juice detoxes the body completely,myth,youtube
+647,Eating fruits and vegetables supports immunity,reliable,blog
+648,honey could help with digestion,uncertain,blog
+649,Vaccines permanently weaken the immune system,myth,blog
+650,Doctors hide natural cures from patients,myth,forum
+651,ginger tea may help improve concentration,uncertain,social_media
+652,garlic may help improve concentration,uncertain,medical_source
+653,turmeric could help with digestion,uncertain,youtube
+654,garlic cures all diseases,myth,health_journal
+655,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+656,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+657,Eating fruits and vegetables supports immunity,reliable,tiktok
+658,Certain herbal remedies may reduce stress,uncertain,social_media
+659,Vaccination reduces risk of infectious diseases,reliable,tiktok
+660,Certain herbal remedies may reduce stress,uncertain,forum
+661,Doctors hide natural cures from patients,myth,social_media
+662,Vaccination reduces risk of infectious diseases,reliable,youtube
+663,honey cures all diseases,myth,health_journal
+664,Vaccination reduces risk of infectious diseases,reliable,forum
+665,Certain herbal remedies may reduce stress,uncertain,social_media
+666,green tea cures all diseases,myth,health_journal
+667,Regular sleep supports brain function,reliable,tiktok
+668,Green tea might support metabolism,uncertain,tiktok
+669,Drinking only juice detoxes the body completely,myth,health_journal
+670,turmeric could help with digestion,uncertain,social_media
+671,Washing hands reduces spread of bacteria and viruses,reliable,blog
+672,Green tea might support metabolism,uncertain,tiktok
+673,Exercise helps maintain cardiovascular health,reliable,social_media
+674,lemon water instantly lowers blood sugar,myth,blog
+675,Drinking only juice detoxes the body completely,myth,medical_source
+676,ginger tea instantly lowers blood sugar,myth,tiktok
+677,garlic may help improve concentration,uncertain,social_media
+678,lemon water could help with digestion,uncertain,blog
+679,Green tea might support metabolism,uncertain,youtube
+680,Drinking only juice detoxes the body completely,myth,medical_source
+681,Vaccines permanently weaken the immune system,myth,forum
+682,honey may help improve concentration,uncertain,forum
+683,apple cider vinegar instantly lowers blood sugar,myth,tiktok
+684,turmeric may help improve concentration,uncertain,blog
+685,honey may help improve concentration,uncertain,medical_source
+686,Vaccination reduces risk of infectious diseases,reliable,health_journal
+687,Intermittent fasting may improve some health markers,uncertain,youtube
+688,Exercise helps maintain cardiovascular health,reliable,social_media
+689,Drinking only juice detoxes the body completely,myth,blog
+690,Exercise helps maintain cardiovascular health,reliable,forum
+691,Drinking only juice detoxes the body completely,myth,youtube
+692,Green tea might support metabolism,uncertain,youtube
+693,lemon water could help with digestion,uncertain,blog
+694,Doctors hide natural cures from patients,myth,tiktok
+695,turmeric cures all diseases,myth,medical_source
+696,turmeric instantly lowers blood sugar,myth,social_media
+697,Vaccines permanently weaken the immune system,myth,medical_source
+698,Regular sleep supports brain function,reliable,blog
+699,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+700,Doctors hide natural cures from patients,myth,tiktok
+701,garlic instantly lowers blood sugar,myth,forum
+702,green tea could help with digestion,uncertain,medical_source
+703,ginger tea instantly lowers blood sugar,myth,blog
+704,Green tea might support metabolism,uncertain,blog
+705,Green tea might support metabolism,uncertain,social_media
+706,Green tea might support metabolism,uncertain,youtube
+707,green tea cures all diseases,myth,health_journal
+708,Green tea might support metabolism,uncertain,blog
+709,lemon water cures all diseases,myth,medical_source
+710,Vaccines permanently weaken the immune system,myth,youtube
+711,Vaccination reduces risk of infectious diseases,reliable,blog
+712,honey cures all diseases,myth,health_journal
+713,Regular sleep supports brain function,reliable,youtube
+714,Drinking only juice detoxes the body completely,myth,medical_source
+715,Green tea might support metabolism,uncertain,social_media
+716,honey cures all diseases,myth,health_journal
+717,turmeric could help with digestion,uncertain,social_media
+718,Exercise helps maintain cardiovascular health,reliable,medical_source
+719,Vaccination reduces risk of infectious diseases,reliable,health_journal
+720,Intermittent fasting may improve some health markers,uncertain,forum
+721,Vaccines permanently weaken the immune system,myth,blog
+722,green tea instantly lowers blood sugar,myth,tiktok
+723,ginger tea may help improve concentration,uncertain,social_media
+724,Certain herbal remedies may reduce stress,uncertain,tiktok
+725,Doctors hide natural cures from patients,myth,blog
+726,Intermittent fasting may improve some health markers,uncertain,social_media
+727,Exercise helps maintain cardiovascular health,reliable,tiktok
+728,apple cider vinegar cures all diseases,myth,social_media
+729,Drinking only juice detoxes the body completely,myth,forum
+730,apple cider vinegar may help improve concentration,uncertain,medical_source
+731,Exercise helps maintain cardiovascular health,reliable,youtube
+732,Intermittent fasting may improve some health markers,uncertain,blog
+733,Drinking only juice detoxes the body completely,myth,medical_source
+734,turmeric may help improve concentration,uncertain,blog
+735,Vaccines permanently weaken the immune system,myth,youtube
+736,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+737,Green tea might support metabolism,uncertain,health_journal
+738,Green tea might support metabolism,uncertain,tiktok
+739,turmeric cures all diseases,myth,youtube
+740,apple cider vinegar could help with digestion,uncertain,blog
+741,Regular sleep supports brain function,reliable,health_journal
+742,Eating fruits and vegetables supports immunity,reliable,medical_source
+743,lemon water could help with digestion,uncertain,blog
+744,Eating fruits and vegetables supports immunity,reliable,medical_source
+745,Certain herbal remedies may reduce stress,uncertain,forum
+746,Drinking only juice detoxes the body completely,myth,medical_source
+747,Doctors hide natural cures from patients,myth,medical_source
+748,green tea cures all diseases,myth,health_journal
+749,Eating fruits and vegetables supports immunity,reliable,medical_source
+750,ginger tea instantly lowers blood sugar,myth,forum
+751,Vaccines permanently weaken the immune system,myth,health_journal
+752,Vaccination reduces risk of infectious diseases,reliable,medical_source
+753,lemon water cures all diseases,myth,tiktok
+754,Vaccination reduces risk of infectious diseases,reliable,youtube
+755,Eating fruits and vegetables supports immunity,reliable,tiktok
+756,Exercise helps maintain cardiovascular health,reliable,medical_source
+757,Exercise helps maintain cardiovascular health,reliable,medical_source
+758,Green tea might support metabolism,uncertain,social_media
+759,lemon water cures all diseases,myth,health_journal
+760,honey instantly lowers blood sugar,myth,health_journal
+761,Green tea might support metabolism,uncertain,blog
+762,Intermittent fasting may improve some health markers,uncertain,forum
+763,Vaccines permanently weaken the immune system,myth,forum
+764,Regular sleep supports brain function,reliable,tiktok
+765,Doctors hide natural cures from patients,myth,social_media
+766,Certain herbal remedies may reduce stress,uncertain,social_media
+767,Vaccination reduces risk of infectious diseases,reliable,social_media
+768,Green tea might support metabolism,uncertain,blog
+769,Eating fruits and vegetables supports immunity,reliable,medical_source
+770,Washing hands reduces spread of bacteria and viruses,reliable,blog
+771,Certain herbal remedies may reduce stress,uncertain,youtube
+772,honey cures all diseases,myth,medical_source
+773,Exercise helps maintain cardiovascular health,reliable,youtube
+774,Vaccines permanently weaken the immune system,myth,forum
+775,Regular sleep supports brain function,reliable,medical_source
+776,Drinking only juice detoxes the body completely,myth,health_journal
+777,Intermittent fasting may improve some health markers,uncertain,health_journal
+778,Doctors hide natural cures from patients,myth,health_journal
+779,Drinking only juice detoxes the body completely,myth,youtube
+780,Certain herbal remedies may reduce stress,uncertain,youtube
+781,Drinking only juice detoxes the body completely,myth,youtube
+782,lemon water could help with digestion,uncertain,youtube
+783,green tea instantly lowers blood sugar,myth,medical_source
+784,Regular sleep supports brain function,reliable,youtube
+785,lemon water cures all diseases,myth,blog
+786,Regular sleep supports brain function,reliable,forum
+787,Exercise helps maintain cardiovascular health,reliable,health_journal
+788,honey instantly lowers blood sugar,myth,tiktok
+789,Vaccination reduces risk of infectious diseases,reliable,youtube
+790,Regular sleep supports brain function,reliable,blog
+791,Drinking only juice detoxes the body completely,myth,forum
+792,Doctors hide natural cures from patients,myth,medical_source
+793,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+794,Certain herbal remedies may reduce stress,uncertain,tiktok
+795,turmeric could help with digestion,uncertain,health_journal
+796,Exercise helps maintain cardiovascular health,reliable,social_media
+797,Washing hands reduces spread of bacteria and viruses,reliable,blog
+798,garlic could help with digestion,uncertain,tiktok
+799,Green tea might support metabolism,uncertain,forum
+800,Doctors hide natural cures from patients,myth,tiktok
+801,Doctors hide natural cures from patients,myth,health_journal
+802,Vaccination reduces risk of infectious diseases,reliable,social_media
+803,Exercise helps maintain cardiovascular health,reliable,health_journal
+804,Vaccination reduces risk of infectious diseases,reliable,medical_source
+805,Vaccination reduces risk of infectious diseases,reliable,health_journal
+806,Doctors hide natural cures from patients,myth,health_journal
+807,green tea could help with digestion,uncertain,medical_source
+808,Exercise helps maintain cardiovascular health,reliable,social_media
+809,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+810,Exercise helps maintain cardiovascular health,reliable,forum
+811,Regular sleep supports brain function,reliable,youtube
+812,Exercise helps maintain cardiovascular health,reliable,medical_source
+813,Vaccination reduces risk of infectious diseases,reliable,tiktok
+814,Doctors hide natural cures from patients,myth,tiktok
+815,Exercise helps maintain cardiovascular health,reliable,blog
+816,Exercise helps maintain cardiovascular health,reliable,tiktok
+817,Vaccines permanently weaken the immune system,myth,social_media
+818,Doctors hide natural cures from patients,myth,youtube
+819,Exercise helps maintain cardiovascular health,reliable,medical_source
+820,Doctors hide natural cures from patients,myth,forum
+821,lemon water could help with digestion,uncertain,blog
+822,Doctors hide natural cures from patients,myth,forum
+823,Vaccines permanently weaken the immune system,myth,forum
+824,Vaccination reduces risk of infectious diseases,reliable,health_journal
+825,turmeric instantly lowers blood sugar,myth,blog
+826,Certain herbal remedies may reduce stress,uncertain,youtube
+827,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+828,Drinking only juice detoxes the body completely,myth,youtube
+829,lemon water could help with digestion,uncertain,health_journal
+830,Regular sleep supports brain function,reliable,health_journal
+831,Vaccination reduces risk of infectious diseases,reliable,tiktok
+832,Green tea might support metabolism,uncertain,forum
+833,Drinking only juice detoxes the body completely,myth,blog
+834,Regular sleep supports brain function,reliable,social_media
+835,garlic cures all diseases,myth,tiktok
+836,Certain herbal remedies may reduce stress,uncertain,youtube
+837,Certain herbal remedies may reduce stress,uncertain,tiktok
+838,Intermittent fasting may improve some health markers,uncertain,tiktok
+839,Vaccines permanently weaken the immune system,myth,youtube
+840,Drinking only juice detoxes the body completely,myth,social_media
+841,Green tea might support metabolism,uncertain,tiktok
+842,ginger tea could help with digestion,uncertain,medical_source
+843,Eating fruits and vegetables supports immunity,reliable,social_media
+844,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+845,Doctors hide natural cures from patients,myth,blog
+846,Drinking only juice detoxes the body completely,myth,health_journal
+847,Certain herbal remedies may reduce stress,uncertain,social_media
+848,Exercise helps maintain cardiovascular health,reliable,tiktok
+849,Vaccination reduces risk of infectious diseases,reliable,youtube
+850,Exercise helps maintain cardiovascular health,reliable,tiktok
+851,ginger tea cures all diseases,myth,medical_source
+852,turmeric may help improve concentration,uncertain,blog
+853,Vaccination reduces risk of infectious diseases,reliable,forum
+854,Vaccination reduces risk of infectious diseases,reliable,medical_source
+855,Doctors hide natural cures from patients,myth,forum
+856,Intermittent fasting may improve some health markers,uncertain,tiktok
+857,Doctors hide natural cures from patients,myth,social_media
+858,Drinking only juice detoxes the body completely,myth,social_media
+859,Doctors hide natural cures from patients,myth,blog
+860,Regular sleep supports brain function,reliable,forum
+861,Green tea might support metabolism,uncertain,youtube
+862,Regular sleep supports brain function,reliable,youtube
+863,Exercise helps maintain cardiovascular health,reliable,blog
+864,Regular sleep supports brain function,reliable,forum
+865,Vaccination reduces risk of infectious diseases,reliable,blog
+866,Regular sleep supports brain function,reliable,youtube
+867,Washing hands reduces spread of bacteria and viruses,reliable,blog
+868,green tea could help with digestion,uncertain,forum
+869,Vaccination reduces risk of infectious diseases,reliable,blog
+870,Certain herbal remedies may reduce stress,uncertain,social_media
+871,Washing hands reduces spread of bacteria and viruses,reliable,blog
+872,Intermittent fasting may improve some health markers,uncertain,medical_source
+873,Drinking only juice detoxes the body completely,myth,blog
+874,turmeric could help with digestion,uncertain,forum
+875,Vaccines permanently weaken the immune system,myth,forum
+876,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+877,Green tea might support metabolism,uncertain,medical_source
+878,Doctors hide natural cures from patients,myth,blog
+879,green tea cures all diseases,myth,forum
+880,Eating fruits and vegetables supports immunity,reliable,medical_source
+881,Intermittent fasting may improve some health markers,uncertain,social_media
+882,Drinking only juice detoxes the body completely,myth,social_media
+883,lemon water instantly lowers blood sugar,myth,medical_source
+884,lemon water may help improve concentration,uncertain,medical_source
+885,Vaccines permanently weaken the immune system,myth,blog
+886,Doctors hide natural cures from patients,myth,medical_source
+887,Drinking only juice detoxes the body completely,myth,blog
+888,Green tea might support metabolism,uncertain,tiktok
+889,honey cures all diseases,myth,blog
+890,Drinking only juice detoxes the body completely,myth,tiktok
+891,Exercise helps maintain cardiovascular health,reliable,social_media
+892,Doctors hide natural cures from patients,myth,medical_source
+893,Vaccination reduces risk of infectious diseases,reliable,youtube
+894,lemon water could help with digestion,uncertain,medical_source
+895,ginger tea cures all diseases,myth,social_media
+896,Exercise helps maintain cardiovascular health,reliable,health_journal
+897,Vaccines permanently weaken the immune system,myth,forum
+898,turmeric instantly lowers blood sugar,myth,tiktok
+899,Eating fruits and vegetables supports immunity,reliable,social_media
+900,Vaccination reduces risk of infectious diseases,reliable,social_media
+901,Vaccination reduces risk of infectious diseases,reliable,health_journal
+902,Drinking only juice detoxes the body completely,myth,youtube
+903,Vaccination reduces risk of infectious diseases,reliable,youtube
+904,Green tea might support metabolism,uncertain,medical_source
+905,Exercise helps maintain cardiovascular health,reliable,blog
+906,Regular sleep supports brain function,reliable,youtube
+907,Regular sleep supports brain function,reliable,social_media
+908,Green tea might support metabolism,uncertain,youtube
+909,Certain herbal remedies may reduce stress,uncertain,blog
+910,honey instantly lowers blood sugar,myth,blog
+911,Vaccines permanently weaken the immune system,myth,blog
+912,Washing hands reduces spread of bacteria and viruses,reliable,blog
+913,Doctors hide natural cures from patients,myth,blog
+914,Eating fruits and vegetables supports immunity,reliable,tiktok
+915,Doctors hide natural cures from patients,myth,youtube
+916,Eating fruits and vegetables supports immunity,reliable,health_journal
+917,honey could help with digestion,uncertain,medical_source
+918,Green tea might support metabolism,uncertain,health_journal
+919,Certain herbal remedies may reduce stress,uncertain,youtube
+920,green tea instantly lowers blood sugar,myth,medical_source
+921,Drinking only juice detoxes the body completely,myth,youtube
+922,lemon water instantly lowers blood sugar,myth,forum
+923,Eating fruits and vegetables supports immunity,reliable,youtube
+924,garlic may help improve concentration,uncertain,tiktok
+925,Green tea might support metabolism,uncertain,youtube
+926,Eating fruits and vegetables supports immunity,reliable,forum
+927,turmeric instantly lowers blood sugar,myth,forum
+928,Exercise helps maintain cardiovascular health,reliable,tiktok
+929,Vaccination reduces risk of infectious diseases,reliable,youtube
+930,garlic instantly lowers blood sugar,myth,tiktok
+931,apple cider vinegar may help improve concentration,uncertain,social_media
+932,Exercise helps maintain cardiovascular health,reliable,youtube
+933,Green tea might support metabolism,uncertain,social_media
+934,Regular sleep supports brain function,reliable,medical_source
+935,apple cider vinegar instantly lowers blood sugar,myth,blog
+936,Doctors hide natural cures from patients,myth,social_media
+937,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+938,ginger tea may help improve concentration,uncertain,social_media
+939,lemon water could help with digestion,uncertain,blog
+940,ginger tea cures all diseases,myth,medical_source
+941,Certain herbal remedies may reduce stress,uncertain,blog
+942,Drinking only juice detoxes the body completely,myth,youtube
+943,Vaccines permanently weaken the immune system,myth,tiktok
+944,Doctors hide natural cures from patients,myth,medical_source
+945,Regular sleep supports brain function,reliable,forum
+946,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+947,Intermittent fasting may improve some health markers,uncertain,tiktok
+948,Eating fruits and vegetables supports immunity,reliable,forum
+949,Certain herbal remedies may reduce stress,uncertain,blog
+950,Vaccines permanently weaken the immune system,myth,forum
+951,Vaccination reduces risk of infectious diseases,reliable,social_media
+952,garlic cures all diseases,myth,social_media
+953,honey cures all diseases,myth,health_journal
+954,Intermittent fasting may improve some health markers,uncertain,forum
+955,lemon water cures all diseases,myth,forum
+956,apple cider vinegar could help with digestion,uncertain,tiktok
+957,Drinking only juice detoxes the body completely,myth,youtube
+958,Doctors hide natural cures from patients,myth,tiktok
+959,Regular sleep supports brain function,reliable,youtube
+960,Drinking only juice detoxes the body completely,myth,forum
+961,Doctors hide natural cures from patients,myth,social_media
+962,Regular sleep supports brain function,reliable,health_journal
+963,Exercise helps maintain cardiovascular health,reliable,health_journal
+964,Vaccines permanently weaken the immune system,myth,youtube
+965,Green tea might support metabolism,uncertain,tiktok
+966,Green tea might support metabolism,uncertain,youtube
+967,Certain herbal remedies may reduce stress,uncertain,blog
+968,Exercise helps maintain cardiovascular health,reliable,health_journal
+969,Vaccines permanently weaken the immune system,myth,social_media
+970,ginger tea may help improve concentration,uncertain,medical_source
+971,Certain herbal remedies may reduce stress,uncertain,social_media
+972,honey may help improve concentration,uncertain,youtube
+973,green tea cures all diseases,myth,medical_source
+974,Doctors hide natural cures from patients,myth,blog
+975,Certain herbal remedies may reduce stress,uncertain,forum
+976,turmeric cures all diseases,myth,social_media
+977,lemon water cures all diseases,myth,medical_source
+978,turmeric instantly lowers blood sugar,myth,social_media
+979,Regular sleep supports brain function,reliable,blog
+980,Drinking only juice detoxes the body completely,myth,medical_source
+981,Vaccination reduces risk of infectious diseases,reliable,blog
+982,Regular sleep supports brain function,reliable,medical_source
+983,Exercise helps maintain cardiovascular health,reliable,forum
+984,green tea could help with digestion,uncertain,youtube
+985,Certain herbal remedies may reduce stress,uncertain,blog
+986,Vaccination reduces risk of infectious diseases,reliable,health_journal
+987,Regular sleep supports brain function,reliable,health_journal
+988,Washing hands reduces spread of bacteria and viruses,reliable,forum
+989,Exercise helps maintain cardiovascular health,reliable,medical_source
+990,Exercise helps maintain cardiovascular health,reliable,tiktok
+991,Regular sleep supports brain function,reliable,health_journal
+992,apple cider vinegar cures all diseases,myth,medical_source
+993,Drinking only juice detoxes the body completely,myth,blog
+994,Washing hands reduces spread of bacteria and viruses,reliable,blog
+995,Vaccines permanently weaken the immune system,myth,social_media
+996,Vaccines permanently weaken the immune system,myth,blog
+997,Washing hands reduces spread of bacteria and viruses,reliable,forum
+998,Exercise helps maintain cardiovascular health,reliable,medical_source
+999,lemon water cures all diseases,myth,forum
+1000,Vaccination reduces risk of infectious diseases,reliable,youtube
+1001,ginger tea instantly lowers blood sugar,myth,tiktok
+1002,Intermittent fasting may improve some health markers,uncertain,health_journal
+1003,Exercise helps maintain cardiovascular health,reliable,tiktok
+1004,Eating fruits and vegetables supports immunity,reliable,health_journal
+1005,Green tea might support metabolism,uncertain,health_journal
+1006,Doctors hide natural cures from patients,myth,blog
+1007,Green tea might support metabolism,uncertain,social_media
+1008,Regular sleep supports brain function,reliable,blog
+1009,turmeric instantly lowers blood sugar,myth,youtube
+1010,garlic could help with digestion,uncertain,blog
+1011,apple cider vinegar instantly lowers blood sugar,myth,social_media
+1012,Regular sleep supports brain function,reliable,medical_source
+1013,lemon water cures all diseases,myth,health_journal
+1014,Vaccines permanently weaken the immune system,myth,health_journal
+1015,Drinking only juice detoxes the body completely,myth,youtube
+1016,Drinking only juice detoxes the body completely,myth,health_journal
+1017,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1018,Certain herbal remedies may reduce stress,uncertain,forum
+1019,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1020,Certain herbal remedies may reduce stress,uncertain,tiktok
+1021,honey cures all diseases,myth,tiktok
+1022,Certain herbal remedies may reduce stress,uncertain,social_media
+1023,Regular sleep supports brain function,reliable,youtube
+1024,Eating fruits and vegetables supports immunity,reliable,social_media
+1025,Regular sleep supports brain function,reliable,youtube
+1026,Exercise helps maintain cardiovascular health,reliable,health_journal
+1027,green tea cures all diseases,myth,blog
+1028,Vaccination reduces risk of infectious diseases,reliable,blog
+1029,Doctors hide natural cures from patients,myth,tiktok
+1030,Doctors hide natural cures from patients,myth,tiktok
+1031,Drinking only juice detoxes the body completely,myth,health_journal
+1032,Drinking only juice detoxes the body completely,myth,social_media
+1033,Eating fruits and vegetables supports immunity,reliable,tiktok
+1034,honey instantly lowers blood sugar,myth,social_media
+1035,Exercise helps maintain cardiovascular health,reliable,tiktok
+1036,lemon water could help with digestion,uncertain,forum
+1037,Regular sleep supports brain function,reliable,medical_source
+1038,Green tea might support metabolism,uncertain,social_media
+1039,ginger tea may help improve concentration,uncertain,social_media
+1040,Drinking only juice detoxes the body completely,myth,health_journal
+1041,garlic could help with digestion,uncertain,health_journal
+1042,Exercise helps maintain cardiovascular health,reliable,medical_source
+1043,ginger tea cures all diseases,myth,medical_source
+1044,Eating fruits and vegetables supports immunity,reliable,youtube
+1045,ginger tea could help with digestion,uncertain,tiktok
+1046,Drinking only juice detoxes the body completely,myth,youtube
+1047,honey could help with digestion,uncertain,youtube
+1048,Eating fruits and vegetables supports immunity,reliable,forum
+1049,Vaccines permanently weaken the immune system,myth,medical_source
+1050,Green tea might support metabolism,uncertain,forum
+1051,honey could help with digestion,uncertain,social_media
+1052,Doctors hide natural cures from patients,myth,forum
+1053,Regular sleep supports brain function,reliable,forum
+1054,Drinking only juice detoxes the body completely,myth,blog
+1055,Certain herbal remedies may reduce stress,uncertain,youtube
+1056,Regular sleep supports brain function,reliable,youtube
+1057,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1058,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1059,Doctors hide natural cures from patients,myth,blog
+1060,Green tea might support metabolism,uncertain,blog
+1061,Regular sleep supports brain function,reliable,blog
+1062,green tea may help improve concentration,uncertain,blog
+1063,Intermittent fasting may improve some health markers,uncertain,health_journal
+1064,Eating fruits and vegetables supports immunity,reliable,medical_source
+1065,Drinking only juice detoxes the body completely,myth,health_journal
+1066,Exercise helps maintain cardiovascular health,reliable,social_media
+1067,Vaccines permanently weaken the immune system,myth,health_journal
+1068,Intermittent fasting may improve some health markers,uncertain,blog
+1069,Certain herbal remedies may reduce stress,uncertain,health_journal
+1070,green tea cures all diseases,myth,youtube
+1071,Certain herbal remedies may reduce stress,uncertain,blog
+1072,Drinking only juice detoxes the body completely,myth,forum
+1073,Drinking only juice detoxes the body completely,myth,youtube
+1074,Eating fruits and vegetables supports immunity,reliable,forum
+1075,honey instantly lowers blood sugar,myth,health_journal
+1076,garlic could help with digestion,uncertain,social_media
+1077,Eating fruits and vegetables supports immunity,reliable,health_journal
+1078,Exercise helps maintain cardiovascular health,reliable,forum
+1079,Doctors hide natural cures from patients,myth,medical_source
+1080,lemon water instantly lowers blood sugar,myth,youtube
+1081,Drinking only juice detoxes the body completely,myth,medical_source
+1082,turmeric cures all diseases,myth,medical_source
+1083,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1084,Vaccines permanently weaken the immune system,myth,medical_source
+1085,Vaccines permanently weaken the immune system,myth,youtube
+1086,Regular sleep supports brain function,reliable,youtube
+1087,green tea instantly lowers blood sugar,myth,forum
+1088,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1089,Exercise helps maintain cardiovascular health,reliable,forum
+1090,Doctors hide natural cures from patients,myth,youtube
+1091,green tea may help improve concentration,uncertain,youtube
+1092,ginger tea may help improve concentration,uncertain,youtube
+1093,Doctors hide natural cures from patients,myth,blog
+1094,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1095,lemon water may help improve concentration,uncertain,youtube
+1096,Drinking only juice detoxes the body completely,myth,youtube
+1097,Intermittent fasting may improve some health markers,uncertain,forum
+1098,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1099,Certain herbal remedies may reduce stress,uncertain,blog
+1100,Doctors hide natural cures from patients,myth,youtube
+1101,Eating fruits and vegetables supports immunity,reliable,social_media
+1102,Green tea might support metabolism,uncertain,youtube
+1103,turmeric instantly lowers blood sugar,myth,health_journal
+1104,Green tea might support metabolism,uncertain,medical_source
+1105,Green tea might support metabolism,uncertain,social_media
+1106,Eating fruits and vegetables supports immunity,reliable,tiktok
+1107,Intermittent fasting may improve some health markers,uncertain,youtube
+1108,Certain herbal remedies may reduce stress,uncertain,tiktok
+1109,Regular sleep supports brain function,reliable,medical_source
+1110,Drinking only juice detoxes the body completely,myth,forum
+1111,Intermittent fasting may improve some health markers,uncertain,health_journal
+1112,Regular sleep supports brain function,reliable,social_media
+1113,turmeric cures all diseases,myth,forum
+1114,Regular sleep supports brain function,reliable,youtube
+1115,Eating fruits and vegetables supports immunity,reliable,medical_source
+1116,Vaccines permanently weaken the immune system,myth,health_journal
+1117,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1118,garlic cures all diseases,myth,tiktok
+1119,turmeric could help with digestion,uncertain,blog
+1120,ginger tea instantly lowers blood sugar,myth,blog
+1121,Doctors hide natural cures from patients,myth,forum
+1122,Intermittent fasting may improve some health markers,uncertain,blog
+1123,Eating fruits and vegetables supports immunity,reliable,forum
+1124,Vaccination reduces risk of infectious diseases,reliable,blog
+1125,apple cider vinegar cures all diseases,myth,blog
+1126,Certain herbal remedies may reduce stress,uncertain,medical_source
+1127,Vaccination reduces risk of infectious diseases,reliable,social_media
+1128,garlic could help with digestion,uncertain,youtube
+1129,apple cider vinegar instantly lowers blood sugar,myth,youtube
+1130,apple cider vinegar could help with digestion,uncertain,blog
+1131,turmeric cures all diseases,myth,blog
+1132,apple cider vinegar may help improve concentration,uncertain,forum
+1133,Regular sleep supports brain function,reliable,forum
+1134,green tea cures all diseases,myth,youtube
+1135,Drinking only juice detoxes the body completely,myth,social_media
+1136,Regular sleep supports brain function,reliable,social_media
+1137,Doctors hide natural cures from patients,myth,youtube
+1138,Green tea might support metabolism,uncertain,forum
+1139,Exercise helps maintain cardiovascular health,reliable,forum
+1140,Exercise helps maintain cardiovascular health,reliable,forum
+1141,Vaccination reduces risk of infectious diseases,reliable,forum
+1142,lemon water could help with digestion,uncertain,medical_source
+1143,Doctors hide natural cures from patients,myth,health_journal
+1144,ginger tea cures all diseases,myth,youtube
+1145,green tea may help improve concentration,uncertain,forum
+1146,Doctors hide natural cures from patients,myth,blog
+1147,Vaccines permanently weaken the immune system,myth,health_journal
+1148,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1149,Drinking only juice detoxes the body completely,myth,blog
+1150,apple cider vinegar cures all diseases,myth,forum
+1151,Certain herbal remedies may reduce stress,uncertain,social_media
+1152,Regular sleep supports brain function,reliable,medical_source
+1153,apple cider vinegar cures all diseases,myth,youtube
+1154,Drinking only juice detoxes the body completely,myth,health_journal
+1155,Vaccines permanently weaken the immune system,myth,health_journal
+1156,Doctors hide natural cures from patients,myth,medical_source
+1157,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1158,Vaccination reduces risk of infectious diseases,reliable,social_media
+1159,turmeric cures all diseases,myth,tiktok
+1160,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1161,Exercise helps maintain cardiovascular health,reliable,social_media
+1162,Regular sleep supports brain function,reliable,forum
+1163,Drinking only juice detoxes the body completely,myth,medical_source
+1164,green tea may help improve concentration,uncertain,blog
+1165,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1166,Doctors hide natural cures from patients,myth,blog
+1167,turmeric may help improve concentration,uncertain,social_media
+1168,garlic cures all diseases,myth,health_journal
+1169,Certain herbal remedies may reduce stress,uncertain,medical_source
+1170,Exercise helps maintain cardiovascular health,reliable,medical_source
+1171,Exercise helps maintain cardiovascular health,reliable,medical_source
+1172,Regular sleep supports brain function,reliable,social_media
+1173,Doctors hide natural cures from patients,myth,youtube
+1174,Vaccination reduces risk of infectious diseases,reliable,forum
+1175,Vaccination reduces risk of infectious diseases,reliable,blog
+1176,honey cures all diseases,myth,health_journal
+1177,green tea could help with digestion,uncertain,health_journal
+1178,Eating fruits and vegetables supports immunity,reliable,forum
+1179,Exercise helps maintain cardiovascular health,reliable,health_journal
+1180,honey instantly lowers blood sugar,myth,social_media
+1181,Doctors hide natural cures from patients,myth,youtube
+1182,Doctors hide natural cures from patients,myth,tiktok
+1183,turmeric instantly lowers blood sugar,myth,medical_source
+1184,Exercise helps maintain cardiovascular health,reliable,medical_source
+1185,Regular sleep supports brain function,reliable,social_media
+1186,Vaccines permanently weaken the immune system,myth,youtube
+1187,Green tea might support metabolism,uncertain,blog
+1188,Doctors hide natural cures from patients,myth,youtube
+1189,Eating fruits and vegetables supports immunity,reliable,medical_source
+1190,Regular sleep supports brain function,reliable,tiktok
+1191,Drinking only juice detoxes the body completely,myth,tiktok
+1192,Green tea might support metabolism,uncertain,blog
+1193,Regular sleep supports brain function,reliable,social_media
+1194,Exercise helps maintain cardiovascular health,reliable,youtube
+1195,Green tea might support metabolism,uncertain,social_media
+1196,Doctors hide natural cures from patients,myth,forum
+1197,garlic could help with digestion,uncertain,youtube
+1198,Intermittent fasting may improve some health markers,uncertain,tiktok
+1199,Certain herbal remedies may reduce stress,uncertain,medical_source
+1200,honey instantly lowers blood sugar,myth,forum
+1201,Doctors hide natural cures from patients,myth,medical_source
+1202,turmeric cures all diseases,myth,tiktok
+1203,lemon water cures all diseases,myth,blog
+1204,Vaccines permanently weaken the immune system,myth,medical_source
+1205,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1206,Eating fruits and vegetables supports immunity,reliable,forum
+1207,honey cures all diseases,myth,youtube
+1208,Eating fruits and vegetables supports immunity,reliable,forum
+1209,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1210,Certain herbal remedies may reduce stress,uncertain,health_journal
+1211,Regular sleep supports brain function,reliable,blog
+1212,Intermittent fasting may improve some health markers,uncertain,blog
+1213,Eating fruits and vegetables supports immunity,reliable,medical_source
+1214,green tea instantly lowers blood sugar,myth,health_journal
+1215,Regular sleep supports brain function,reliable,forum
+1216,Doctors hide natural cures from patients,myth,medical_source
+1217,Drinking only juice detoxes the body completely,myth,social_media
+1218,honey instantly lowers blood sugar,myth,blog
+1219,Green tea might support metabolism,uncertain,medical_source
+1220,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1221,Exercise helps maintain cardiovascular health,reliable,forum
+1222,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1223,Regular sleep supports brain function,reliable,health_journal
+1224,Vaccination reduces risk of infectious diseases,reliable,blog
+1225,lemon water may help improve concentration,uncertain,medical_source
+1226,Regular sleep supports brain function,reliable,forum
+1227,Drinking only juice detoxes the body completely,myth,health_journal
+1228,Exercise helps maintain cardiovascular health,reliable,medical_source
+1229,Doctors hide natural cures from patients,myth,youtube
+1230,apple cider vinegar instantly lowers blood sugar,myth,forum
+1231,Green tea might support metabolism,uncertain,tiktok
+1232,Green tea might support metabolism,uncertain,blog
+1233,Drinking only juice detoxes the body completely,myth,tiktok
+1234,apple cider vinegar could help with digestion,uncertain,health_journal
+1235,Doctors hide natural cures from patients,myth,social_media
+1236,Drinking only juice detoxes the body completely,myth,social_media
+1237,Exercise helps maintain cardiovascular health,reliable,blog
+1238,Doctors hide natural cures from patients,myth,health_journal
+1239,Doctors hide natural cures from patients,myth,medical_source
+1240,Eating fruits and vegetables supports immunity,reliable,medical_source
+1241,Regular sleep supports brain function,reliable,forum
+1242,Doctors hide natural cures from patients,myth,youtube
+1243,Vaccines permanently weaken the immune system,myth,forum
+1244,turmeric cures all diseases,myth,social_media
+1245,Intermittent fasting may improve some health markers,uncertain,social_media
+1246,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1247,Exercise helps maintain cardiovascular health,reliable,tiktok
+1248,Certain herbal remedies may reduce stress,uncertain,forum
+1249,Certain herbal remedies may reduce stress,uncertain,social_media
+1250,Regular sleep supports brain function,reliable,youtube
+1251,Exercise helps maintain cardiovascular health,reliable,youtube
+1252,apple cider vinegar cures all diseases,myth,tiktok
+1253,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1254,ginger tea could help with digestion,uncertain,youtube
+1255,honey cures all diseases,myth,medical_source
+1256,Doctors hide natural cures from patients,myth,social_media
+1257,Doctors hide natural cures from patients,myth,tiktok
+1258,green tea may help improve concentration,uncertain,tiktok
+1259,green tea could help with digestion,uncertain,social_media
+1260,Eating fruits and vegetables supports immunity,reliable,tiktok
+1261,Doctors hide natural cures from patients,myth,tiktok
+1262,Green tea might support metabolism,uncertain,youtube
+1263,Intermittent fasting may improve some health markers,uncertain,blog
+1264,Vaccines permanently weaken the immune system,myth,youtube
+1265,Doctors hide natural cures from patients,myth,youtube
+1266,Exercise helps maintain cardiovascular health,reliable,social_media
+1267,Eating fruits and vegetables supports immunity,reliable,blog
+1268,Vaccination reduces risk of infectious diseases,reliable,blog
+1269,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1270,turmeric may help improve concentration,uncertain,blog
+1271,Doctors hide natural cures from patients,myth,blog
+1272,lemon water may help improve concentration,uncertain,blog
+1273,lemon water could help with digestion,uncertain,youtube
+1274,Regular sleep supports brain function,reliable,tiktok
+1275,green tea instantly lowers blood sugar,myth,youtube
+1276,Vaccines permanently weaken the immune system,myth,tiktok
+1277,apple cider vinegar could help with digestion,uncertain,health_journal
+1278,Eating fruits and vegetables supports immunity,reliable,forum
+1279,Intermittent fasting may improve some health markers,uncertain,medical_source
+1280,Vaccination reduces risk of infectious diseases,reliable,social_media
+1281,honey could help with digestion,uncertain,tiktok
+1282,Vaccines permanently weaken the immune system,myth,health_journal
+1283,green tea instantly lowers blood sugar,myth,medical_source
+1284,Exercise helps maintain cardiovascular health,reliable,forum
+1285,apple cider vinegar may help improve concentration,uncertain,youtube
+1286,Intermittent fasting may improve some health markers,uncertain,health_journal
+1287,Vaccines permanently weaken the immune system,myth,forum
+1288,turmeric instantly lowers blood sugar,myth,blog
+1289,Intermittent fasting may improve some health markers,uncertain,social_media
+1290,lemon water instantly lowers blood sugar,myth,health_journal
+1291,Green tea might support metabolism,uncertain,social_media
+1292,Intermittent fasting may improve some health markers,uncertain,medical_source
+1293,Intermittent fasting may improve some health markers,uncertain,medical_source
+1294,honey instantly lowers blood sugar,myth,social_media
+1295,Doctors hide natural cures from patients,myth,blog
+1296,lemon water may help improve concentration,uncertain,medical_source
+1297,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1298,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1299,honey could help with digestion,uncertain,medical_source
+1300,lemon water could help with digestion,uncertain,blog
+1301,Doctors hide natural cures from patients,myth,social_media
+1302,Drinking only juice detoxes the body completely,myth,youtube
+1303,green tea could help with digestion,uncertain,medical_source
+1304,Green tea might support metabolism,uncertain,blog
+1305,Certain herbal remedies may reduce stress,uncertain,social_media
+1306,green tea instantly lowers blood sugar,myth,youtube
+1307,Intermittent fasting may improve some health markers,uncertain,social_media
+1308,Doctors hide natural cures from patients,myth,youtube
+1309,Vaccines permanently weaken the immune system,myth,blog
+1310,Green tea might support metabolism,uncertain,blog
+1311,ginger tea may help improve concentration,uncertain,medical_source
+1312,Vaccines permanently weaken the immune system,myth,social_media
+1313,Exercise helps maintain cardiovascular health,reliable,medical_source
+1314,ginger tea may help improve concentration,uncertain,blog
+1315,ginger tea instantly lowers blood sugar,myth,youtube
+1316,Certain herbal remedies may reduce stress,uncertain,health_journal
+1317,Drinking only juice detoxes the body completely,myth,blog
+1318,Certain herbal remedies may reduce stress,uncertain,tiktok
+1319,Vaccination reduces risk of infectious diseases,reliable,social_media
+1320,ginger tea may help improve concentration,uncertain,social_media
+1321,Green tea might support metabolism,uncertain,blog
+1322,green tea cures all diseases,myth,blog
+1323,Doctors hide natural cures from patients,myth,blog
+1324,Intermittent fasting may improve some health markers,uncertain,forum
+1325,Regular sleep supports brain function,reliable,tiktok
+1326,Drinking only juice detoxes the body completely,myth,forum
+1327,Exercise helps maintain cardiovascular health,reliable,tiktok
+1328,Vaccination reduces risk of infectious diseases,reliable,blog
+1329,Green tea might support metabolism,uncertain,youtube
+1330,Eating fruits and vegetables supports immunity,reliable,social_media
+1331,Eating fruits and vegetables supports immunity,reliable,social_media
+1332,Eating fruits and vegetables supports immunity,reliable,forum
+1333,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1334,Doctors hide natural cures from patients,myth,tiktok
+1335,ginger tea cures all diseases,myth,medical_source
+1336,ginger tea may help improve concentration,uncertain,blog
+1337,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1338,Eating fruits and vegetables supports immunity,reliable,social_media
+1339,Vaccines permanently weaken the immune system,myth,social_media
+1340,Doctors hide natural cures from patients,myth,tiktok
+1341,Vaccination reduces risk of infectious diseases,reliable,youtube
+1342,Intermittent fasting may improve some health markers,uncertain,social_media
+1343,Exercise helps maintain cardiovascular health,reliable,medical_source
+1344,Green tea might support metabolism,uncertain,medical_source
+1345,Regular sleep supports brain function,reliable,blog
+1346,Vaccines permanently weaken the immune system,myth,forum
+1347,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1348,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1349,Doctors hide natural cures from patients,myth,medical_source
+1350,honey could help with digestion,uncertain,medical_source
+1351,Certain herbal remedies may reduce stress,uncertain,forum
+1352,Eating fruits and vegetables supports immunity,reliable,health_journal
+1353,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1354,Regular sleep supports brain function,reliable,tiktok
+1355,Vaccines permanently weaken the immune system,myth,tiktok
+1356,Vaccines permanently weaken the immune system,myth,tiktok
+1357,Certain herbal remedies may reduce stress,uncertain,youtube
+1358,Vaccines permanently weaken the immune system,myth,health_journal
+1359,Certain herbal remedies may reduce stress,uncertain,social_media
+1360,Intermittent fasting may improve some health markers,uncertain,health_journal
+1361,Eating fruits and vegetables supports immunity,reliable,medical_source
+1362,Intermittent fasting may improve some health markers,uncertain,health_journal
+1363,Green tea might support metabolism,uncertain,tiktok
+1364,Doctors hide natural cures from patients,myth,social_media
+1365,Exercise helps maintain cardiovascular health,reliable,health_journal
+1366,Drinking only juice detoxes the body completely,myth,social_media
+1367,apple cider vinegar cures all diseases,myth,forum
+1368,Vaccines permanently weaken the immune system,myth,tiktok
+1369,Drinking only juice detoxes the body completely,myth,blog
+1370,Vaccines permanently weaken the immune system,myth,health_journal
+1371,Intermittent fasting may improve some health markers,uncertain,social_media
+1372,ginger tea may help improve concentration,uncertain,youtube
+1373,Eating fruits and vegetables supports immunity,reliable,forum
+1374,ginger tea could help with digestion,uncertain,medical_source
+1375,Exercise helps maintain cardiovascular health,reliable,medical_source
+1376,Doctors hide natural cures from patients,myth,blog
+1377,Green tea might support metabolism,uncertain,youtube
+1378,Exercise helps maintain cardiovascular health,reliable,forum
+1379,Green tea might support metabolism,uncertain,health_journal
+1380,Regular sleep supports brain function,reliable,medical_source
+1381,honey cures all diseases,myth,social_media
+1382,Exercise helps maintain cardiovascular health,reliable,health_journal
+1383,Vaccines permanently weaken the immune system,myth,social_media
+1384,Intermittent fasting may improve some health markers,uncertain,tiktok
+1385,Vaccines permanently weaken the immune system,myth,youtube
+1386,Vaccination reduces risk of infectious diseases,reliable,social_media
+1387,green tea may help improve concentration,uncertain,forum
+1388,Regular sleep supports brain function,reliable,medical_source
+1389,Vaccination reduces risk of infectious diseases,reliable,forum
+1390,ginger tea could help with digestion,uncertain,social_media
+1391,Intermittent fasting may improve some health markers,uncertain,social_media
+1392,turmeric cures all diseases,myth,youtube
+1393,Vaccines permanently weaken the immune system,myth,youtube
+1394,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1395,Vaccination reduces risk of infectious diseases,reliable,youtube
+1396,lemon water could help with digestion,uncertain,social_media
+1397,apple cider vinegar cures all diseases,myth,tiktok
+1398,Exercise helps maintain cardiovascular health,reliable,blog
+1399,garlic instantly lowers blood sugar,myth,youtube
+1400,Drinking only juice detoxes the body completely,myth,forum
+1401,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1402,Drinking only juice detoxes the body completely,myth,health_journal
+1403,turmeric could help with digestion,uncertain,medical_source
+1404,garlic cures all diseases,myth,youtube
+1405,Regular sleep supports brain function,reliable,health_journal
+1406,turmeric could help with digestion,uncertain,medical_source
+1407,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1408,Regular sleep supports brain function,reliable,youtube
+1409,green tea cures all diseases,myth,medical_source
+1410,Drinking only juice detoxes the body completely,myth,tiktok
+1411,Green tea might support metabolism,uncertain,blog
+1412,Certain herbal remedies may reduce stress,uncertain,forum
+1413,ginger tea instantly lowers blood sugar,myth,medical_source
+1414,turmeric could help with digestion,uncertain,forum
+1415,Doctors hide natural cures from patients,myth,youtube
+1416,Doctors hide natural cures from patients,myth,forum
+1417,Intermittent fasting may improve some health markers,uncertain,blog
+1418,Exercise helps maintain cardiovascular health,reliable,youtube
+1419,Vaccines permanently weaken the immune system,myth,youtube
+1420,lemon water instantly lowers blood sugar,myth,medical_source
+1421,Exercise helps maintain cardiovascular health,reliable,forum
+1422,Drinking only juice detoxes the body completely,myth,youtube
+1423,Vaccines permanently weaken the immune system,myth,forum
+1424,lemon water cures all diseases,myth,medical_source
+1425,garlic cures all diseases,myth,tiktok
+1426,garlic cures all diseases,myth,health_journal
+1427,lemon water cures all diseases,myth,medical_source
+1428,Doctors hide natural cures from patients,myth,blog
+1429,Eating fruits and vegetables supports immunity,reliable,medical_source
+1430,lemon water cures all diseases,myth,medical_source
+1431,ginger tea could help with digestion,uncertain,health_journal
+1432,Certain herbal remedies may reduce stress,uncertain,medical_source
+1433,Doctors hide natural cures from patients,myth,medical_source
+1434,Intermittent fasting may improve some health markers,uncertain,tiktok
+1435,Eating fruits and vegetables supports immunity,reliable,blog
+1436,Vaccines permanently weaken the immune system,myth,social_media
+1437,Green tea might support metabolism,uncertain,health_journal
+1438,Regular sleep supports brain function,reliable,social_media
+1439,Certain herbal remedies may reduce stress,uncertain,forum
+1440,Green tea might support metabolism,uncertain,blog
+1441,green tea cures all diseases,myth,youtube
+1442,green tea instantly lowers blood sugar,myth,social_media
+1443,lemon water cures all diseases,myth,medical_source
+1444,Regular sleep supports brain function,reliable,youtube
+1445,Vaccination reduces risk of infectious diseases,reliable,forum
+1446,Exercise helps maintain cardiovascular health,reliable,blog
+1447,Doctors hide natural cures from patients,myth,blog
+1448,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1449,Exercise helps maintain cardiovascular health,reliable,blog
+1450,Certain herbal remedies may reduce stress,uncertain,forum
+1451,honey cures all diseases,myth,social_media
+1452,Doctors hide natural cures from patients,myth,youtube
+1453,Vaccination reduces risk of infectious diseases,reliable,social_media
+1454,Doctors hide natural cures from patients,myth,medical_source
+1455,Vaccines permanently weaken the immune system,myth,medical_source
+1456,Regular sleep supports brain function,reliable,social_media
+1457,Drinking only juice detoxes the body completely,myth,blog
+1458,Regular sleep supports brain function,reliable,tiktok
+1459,Eating fruits and vegetables supports immunity,reliable,tiktok
+1460,Certain herbal remedies may reduce stress,uncertain,forum
+1461,Certain herbal remedies may reduce stress,uncertain,social_media
+1462,Doctors hide natural cures from patients,myth,medical_source
+1463,apple cider vinegar could help with digestion,uncertain,youtube
+1464,Doctors hide natural cures from patients,myth,medical_source
+1465,Certain herbal remedies may reduce stress,uncertain,health_journal
+1466,Doctors hide natural cures from patients,myth,medical_source
+1467,Certain herbal remedies may reduce stress,uncertain,medical_source
+1468,Regular sleep supports brain function,reliable,social_media
+1469,turmeric may help improve concentration,uncertain,social_media
+1470,Exercise helps maintain cardiovascular health,reliable,tiktok
+1471,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1472,Green tea might support metabolism,uncertain,youtube
+1473,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1474,Vaccination reduces risk of infectious diseases,reliable,forum
+1475,Certain herbal remedies may reduce stress,uncertain,social_media
+1476,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1477,Eating fruits and vegetables supports immunity,reliable,social_media
+1478,Regular sleep supports brain function,reliable,youtube
+1479,honey may help improve concentration,uncertain,health_journal
+1480,turmeric cures all diseases,myth,blog
+1481,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1482,green tea instantly lowers blood sugar,myth,medical_source
+1483,Drinking only juice detoxes the body completely,myth,tiktok
+1484,Eating fruits and vegetables supports immunity,reliable,forum
+1485,turmeric cures all diseases,myth,health_journal
+1486,Exercise helps maintain cardiovascular health,reliable,social_media
+1487,Vaccines permanently weaken the immune system,myth,social_media
+1488,Drinking only juice detoxes the body completely,myth,social_media
+1489,Vaccines permanently weaken the immune system,myth,forum
+1490,Exercise helps maintain cardiovascular health,reliable,blog
+1491,garlic cures all diseases,myth,forum
+1492,Regular sleep supports brain function,reliable,blog
+1493,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1494,Certain herbal remedies may reduce stress,uncertain,forum
+1495,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1496,Exercise helps maintain cardiovascular health,reliable,medical_source
+1497,lemon water may help improve concentration,uncertain,social_media
+1498,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1499,Vaccination reduces risk of infectious diseases,reliable,youtube
+1500,Green tea might support metabolism,uncertain,medical_source
+1501,Intermittent fasting may improve some health markers,uncertain,social_media
+1502,Green tea might support metabolism,uncertain,tiktok
+1503,Exercise helps maintain cardiovascular health,reliable,social_media
+1504,Intermittent fasting may improve some health markers,uncertain,health_journal
+1505,Green tea might support metabolism,uncertain,blog
+1506,garlic cures all diseases,myth,forum
+1507,Regular sleep supports brain function,reliable,social_media
+1508,ginger tea cures all diseases,myth,health_journal
+1509,Eating fruits and vegetables supports immunity,reliable,forum
+1510,green tea instantly lowers blood sugar,myth,health_journal
+1511,Regular sleep supports brain function,reliable,blog
+1512,ginger tea cures all diseases,myth,medical_source
+1513,Eating fruits and vegetables supports immunity,reliable,health_journal
+1514,Eating fruits and vegetables supports immunity,reliable,youtube
+1515,Drinking only juice detoxes the body completely,myth,medical_source
+1516,Vaccines permanently weaken the immune system,myth,tiktok
+1517,Certain herbal remedies may reduce stress,uncertain,forum
+1518,Exercise helps maintain cardiovascular health,reliable,blog
+1519,lemon water cures all diseases,myth,tiktok
+1520,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1521,Certain herbal remedies may reduce stress,uncertain,forum
+1522,Certain herbal remedies may reduce stress,uncertain,blog
+1523,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1524,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1525,turmeric instantly lowers blood sugar,myth,social_media
+1526,Eating fruits and vegetables supports immunity,reliable,social_media
+1527,Vaccination reduces risk of infectious diseases,reliable,youtube
+1528,ginger tea could help with digestion,uncertain,blog
+1529,Certain herbal remedies may reduce stress,uncertain,medical_source
+1530,Vaccination reduces risk of infectious diseases,reliable,social_media
+1531,Vaccines permanently weaken the immune system,myth,tiktok
+1532,Eating fruits and vegetables supports immunity,reliable,forum
+1533,Doctors hide natural cures from patients,myth,youtube
+1534,Vaccines permanently weaken the immune system,myth,social_media
+1535,Doctors hide natural cures from patients,myth,health_journal
+1536,Vaccination reduces risk of infectious diseases,reliable,forum
+1537,Certain herbal remedies may reduce stress,uncertain,tiktok
+1538,Regular sleep supports brain function,reliable,tiktok
+1539,ginger tea instantly lowers blood sugar,myth,forum
+1540,Intermittent fasting may improve some health markers,uncertain,forum
+1541,Intermittent fasting may improve some health markers,uncertain,forum
+1542,Vaccination reduces risk of infectious diseases,reliable,social_media
+1543,Intermittent fasting may improve some health markers,uncertain,blog
+1544,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1545,Vaccines permanently weaken the immune system,myth,blog
+1546,apple cider vinegar instantly lowers blood sugar,myth,social_media
+1547,Green tea might support metabolism,uncertain,tiktok
+1548,Exercise helps maintain cardiovascular health,reliable,social_media
+1549,Intermittent fasting may improve some health markers,uncertain,medical_source
+1550,ginger tea instantly lowers blood sugar,myth,tiktok
+1551,apple cider vinegar could help with digestion,uncertain,forum
+1552,Vaccines permanently weaken the immune system,myth,forum
+1553,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1554,Doctors hide natural cures from patients,myth,medical_source
+1555,garlic cures all diseases,myth,blog
+1556,Drinking only juice detoxes the body completely,myth,blog
+1557,Doctors hide natural cures from patients,myth,health_journal
+1558,ginger tea could help with digestion,uncertain,social_media
+1559,turmeric could help with digestion,uncertain,blog
+1560,Intermittent fasting may improve some health markers,uncertain,health_journal
+1561,Doctors hide natural cures from patients,myth,health_journal
+1562,Intermittent fasting may improve some health markers,uncertain,medical_source
+1563,Green tea might support metabolism,uncertain,forum
+1564,honey cures all diseases,myth,tiktok
+1565,Certain herbal remedies may reduce stress,uncertain,tiktok
+1566,Vaccination reduces risk of infectious diseases,reliable,forum
+1567,turmeric instantly lowers blood sugar,myth,youtube
+1568,Vaccination reduces risk of infectious diseases,reliable,social_media
+1569,Green tea might support metabolism,uncertain,forum
+1570,Doctors hide natural cures from patients,myth,tiktok
+1571,garlic cures all diseases,myth,blog
+1572,honey could help with digestion,uncertain,medical_source
+1573,garlic could help with digestion,uncertain,medical_source
+1574,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1575,Green tea might support metabolism,uncertain,tiktok
+1576,Exercise helps maintain cardiovascular health,reliable,youtube
+1577,Exercise helps maintain cardiovascular health,reliable,health_journal
+1578,Intermittent fasting may improve some health markers,uncertain,youtube
+1579,Exercise helps maintain cardiovascular health,reliable,health_journal
+1580,Certain herbal remedies may reduce stress,uncertain,youtube
+1581,Vaccines permanently weaken the immune system,myth,youtube
+1582,Green tea might support metabolism,uncertain,social_media
+1583,Eating fruits and vegetables supports immunity,reliable,blog
+1584,Intermittent fasting may improve some health markers,uncertain,forum
+1585,Exercise helps maintain cardiovascular health,reliable,medical_source
+1586,Regular sleep supports brain function,reliable,medical_source
+1587,green tea may help improve concentration,uncertain,blog
+1588,Intermittent fasting may improve some health markers,uncertain,youtube
+1589,apple cider vinegar could help with digestion,uncertain,health_journal
+1590,Drinking only juice detoxes the body completely,myth,tiktok
+1591,Intermittent fasting may improve some health markers,uncertain,forum
+1592,Doctors hide natural cures from patients,myth,social_media
+1593,honey could help with digestion,uncertain,youtube
+1594,Green tea might support metabolism,uncertain,social_media
+1595,Intermittent fasting may improve some health markers,uncertain,social_media
+1596,apple cider vinegar could help with digestion,uncertain,health_journal
+1597,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1598,Vaccines permanently weaken the immune system,myth,medical_source
+1599,ginger tea may help improve concentration,uncertain,forum
+1600,Vaccines permanently weaken the immune system,myth,forum
+1601,Regular sleep supports brain function,reliable,forum
+1602,Intermittent fasting may improve some health markers,uncertain,health_journal
+1603,Vaccination reduces risk of infectious diseases,reliable,blog
+1604,Regular sleep supports brain function,reliable,forum
+1605,Certain herbal remedies may reduce stress,uncertain,youtube
+1606,Intermittent fasting may improve some health markers,uncertain,youtube
+1607,Vaccines permanently weaken the immune system,myth,forum
+1608,Intermittent fasting may improve some health markers,uncertain,social_media
+1609,Exercise helps maintain cardiovascular health,reliable,forum
+1610,Intermittent fasting may improve some health markers,uncertain,health_journal
+1611,Exercise helps maintain cardiovascular health,reliable,medical_source
+1612,apple cider vinegar instantly lowers blood sugar,myth,forum
+1613,lemon water instantly lowers blood sugar,myth,social_media
+1614,Eating fruits and vegetables supports immunity,reliable,health_journal
+1615,Regular sleep supports brain function,reliable,blog
+1616,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1617,ginger tea cures all diseases,myth,medical_source
+1618,turmeric could help with digestion,uncertain,youtube
+1619,Vaccines permanently weaken the immune system,myth,social_media
+1620,Vaccination reduces risk of infectious diseases,reliable,forum
+1621,Doctors hide natural cures from patients,myth,tiktok
+1622,Green tea might support metabolism,uncertain,blog
+1623,Intermittent fasting may improve some health markers,uncertain,tiktok
+1624,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1625,Doctors hide natural cures from patients,myth,social_media
+1626,Drinking only juice detoxes the body completely,myth,forum
+1627,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1628,Exercise helps maintain cardiovascular health,reliable,tiktok
+1629,Vaccination reduces risk of infectious diseases,reliable,social_media
+1630,Eating fruits and vegetables supports immunity,reliable,health_journal
+1631,Vaccines permanently weaken the immune system,myth,youtube
+1632,Intermittent fasting may improve some health markers,uncertain,social_media
+1633,green tea could help with digestion,uncertain,forum
+1634,Doctors hide natural cures from patients,myth,tiktok
+1635,Doctors hide natural cures from patients,myth,medical_source
+1636,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1637,Intermittent fasting may improve some health markers,uncertain,forum
+1638,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1639,Eating fruits and vegetables supports immunity,reliable,blog
+1640,Exercise helps maintain cardiovascular health,reliable,youtube
+1641,Green tea might support metabolism,uncertain,blog
+1642,Intermittent fasting may improve some health markers,uncertain,youtube
+1643,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1644,Doctors hide natural cures from patients,myth,social_media
+1645,Exercise helps maintain cardiovascular health,reliable,youtube
+1646,Doctors hide natural cures from patients,myth,social_media
+1647,Vaccines permanently weaken the immune system,myth,medical_source
+1648,garlic may help improve concentration,uncertain,forum
+1649,apple cider vinegar cures all diseases,myth,youtube
+1650,Eating fruits and vegetables supports immunity,reliable,social_media
+1651,ginger tea could help with digestion,uncertain,blog
+1652,Certain herbal remedies may reduce stress,uncertain,blog
+1653,Eating fruits and vegetables supports immunity,reliable,youtube
+1654,Green tea might support metabolism,uncertain,blog
+1655,honey could help with digestion,uncertain,social_media
+1656,Vaccination reduces risk of infectious diseases,reliable,youtube
+1657,green tea cures all diseases,myth,medical_source
+1658,Regular sleep supports brain function,reliable,medical_source
+1659,Drinking only juice detoxes the body completely,myth,blog
+1660,Green tea might support metabolism,uncertain,social_media
+1661,Drinking only juice detoxes the body completely,myth,forum
+1662,Regular sleep supports brain function,reliable,social_media
+1663,Exercise helps maintain cardiovascular health,reliable,youtube
+1664,Eating fruits and vegetables supports immunity,reliable,medical_source
+1665,Doctors hide natural cures from patients,myth,youtube
+1666,ginger tea may help improve concentration,uncertain,blog
+1667,Green tea might support metabolism,uncertain,tiktok
+1668,Vaccines permanently weaken the immune system,myth,youtube
+1669,Intermittent fasting may improve some health markers,uncertain,tiktok
+1670,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1671,Doctors hide natural cures from patients,myth,medical_source
+1672,Exercise helps maintain cardiovascular health,reliable,social_media
+1673,Vaccines permanently weaken the immune system,myth,social_media
+1674,ginger tea cures all diseases,myth,youtube
+1675,garlic may help improve concentration,uncertain,tiktok
+1676,Vaccines permanently weaken the immune system,myth,medical_source
+1677,lemon water cures all diseases,myth,tiktok
+1678,green tea cures all diseases,myth,blog
+1679,lemon water instantly lowers blood sugar,myth,tiktok
+1680,Certain herbal remedies may reduce stress,uncertain,youtube
+1681,Drinking only juice detoxes the body completely,myth,youtube
+1682,Exercise helps maintain cardiovascular health,reliable,medical_source
+1683,ginger tea may help improve concentration,uncertain,blog
+1684,Drinking only juice detoxes the body completely,myth,tiktok
+1685,apple cider vinegar could help with digestion,uncertain,social_media
+1686,Intermittent fasting may improve some health markers,uncertain,social_media
+1687,Certain herbal remedies may reduce stress,uncertain,medical_source
+1688,green tea may help improve concentration,uncertain,health_journal
+1689,Regular sleep supports brain function,reliable,medical_source
+1690,Eating fruits and vegetables supports immunity,reliable,blog
+1691,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1692,Doctors hide natural cures from patients,myth,forum
+1693,Drinking only juice detoxes the body completely,myth,health_journal
+1694,Green tea might support metabolism,uncertain,social_media
+1695,Certain herbal remedies may reduce stress,uncertain,health_journal
+1696,Certain herbal remedies may reduce stress,uncertain,social_media
+1697,ginger tea cures all diseases,myth,forum
+1698,Drinking only juice detoxes the body completely,myth,tiktok
+1699,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1700,Regular sleep supports brain function,reliable,health_journal
+1701,turmeric cures all diseases,myth,health_journal
+1702,Intermittent fasting may improve some health markers,uncertain,blog
+1703,Doctors hide natural cures from patients,myth,tiktok
+1704,Intermittent fasting may improve some health markers,uncertain,blog
+1705,Vaccines permanently weaken the immune system,myth,blog
+1706,green tea could help with digestion,uncertain,tiktok
+1707,Exercise helps maintain cardiovascular health,reliable,youtube
+1708,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1709,Eating fruits and vegetables supports immunity,reliable,youtube
+1710,honey may help improve concentration,uncertain,health_journal
+1711,Vaccines permanently weaken the immune system,myth,social_media
+1712,honey could help with digestion,uncertain,forum
+1713,Exercise helps maintain cardiovascular health,reliable,social_media
+1714,green tea may help improve concentration,uncertain,tiktok
+1715,ginger tea instantly lowers blood sugar,myth,blog
+1716,green tea instantly lowers blood sugar,myth,tiktok
+1717,ginger tea instantly lowers blood sugar,myth,social_media
+1718,ginger tea could help with digestion,uncertain,social_media
+1719,Exercise helps maintain cardiovascular health,reliable,health_journal
+1720,Vaccines permanently weaken the immune system,myth,social_media
+1721,ginger tea may help improve concentration,uncertain,health_journal
+1722,Green tea might support metabolism,uncertain,blog
+1723,Vaccination reduces risk of infectious diseases,reliable,social_media
+1724,Drinking only juice detoxes the body completely,myth,medical_source
+1725,Certain herbal remedies may reduce stress,uncertain,youtube
+1726,turmeric could help with digestion,uncertain,tiktok
+1727,Regular sleep supports brain function,reliable,medical_source
+1728,turmeric could help with digestion,uncertain,tiktok
+1729,turmeric instantly lowers blood sugar,myth,forum
+1730,Drinking only juice detoxes the body completely,myth,blog
+1731,Intermittent fasting may improve some health markers,uncertain,forum
+1732,Eating fruits and vegetables supports immunity,reliable,youtube
+1733,green tea may help improve concentration,uncertain,tiktok
+1734,Intermittent fasting may improve some health markers,uncertain,medical_source
+1735,Drinking only juice detoxes the body completely,myth,forum
+1736,honey may help improve concentration,uncertain,tiktok
+1737,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1738,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1739,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1740,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1741,Certain herbal remedies may reduce stress,uncertain,blog
+1742,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1743,Certain herbal remedies may reduce stress,uncertain,medical_source
+1744,Green tea might support metabolism,uncertain,medical_source
+1745,Intermittent fasting may improve some health markers,uncertain,health_journal
+1746,ginger tea instantly lowers blood sugar,myth,health_journal
+1747,honey may help improve concentration,uncertain,health_journal
+1748,Doctors hide natural cures from patients,myth,social_media
+1749,Eating fruits and vegetables supports immunity,reliable,health_journal
+1750,ginger tea cures all diseases,myth,tiktok
+1751,lemon water may help improve concentration,uncertain,social_media
+1752,Doctors hide natural cures from patients,myth,social_media
+1753,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1754,Certain herbal remedies may reduce stress,uncertain,medical_source
+1755,ginger tea instantly lowers blood sugar,myth,health_journal
+1756,Drinking only juice detoxes the body completely,myth,blog
+1757,ginger tea instantly lowers blood sugar,myth,blog
+1758,Regular sleep supports brain function,reliable,forum
+1759,ginger tea instantly lowers blood sugar,myth,blog
+1760,Drinking only juice detoxes the body completely,myth,blog
+1761,Vaccines permanently weaken the immune system,myth,medical_source
+1762,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1763,turmeric could help with digestion,uncertain,medical_source
+1764,Eating fruits and vegetables supports immunity,reliable,blog
+1765,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1766,Vaccines permanently weaken the immune system,myth,blog
+1767,Drinking only juice detoxes the body completely,myth,blog
+1768,turmeric cures all diseases,myth,tiktok
+1769,Doctors hide natural cures from patients,myth,blog
+1770,Vaccines permanently weaken the immune system,myth,health_journal
+1771,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1772,Vaccines permanently weaken the immune system,myth,health_journal
+1773,Eating fruits and vegetables supports immunity,reliable,blog
+1774,Intermittent fasting may improve some health markers,uncertain,health_journal
+1775,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1776,Doctors hide natural cures from patients,myth,youtube
+1777,Regular sleep supports brain function,reliable,youtube
+1778,Exercise helps maintain cardiovascular health,reliable,health_journal
+1779,Certain herbal remedies may reduce stress,uncertain,tiktok
+1780,Vaccination reduces risk of infectious diseases,reliable,forum
+1781,Eating fruits and vegetables supports immunity,reliable,medical_source
+1782,Exercise helps maintain cardiovascular health,reliable,health_journal
+1783,Intermittent fasting may improve some health markers,uncertain,youtube
+1784,Exercise helps maintain cardiovascular health,reliable,medical_source
+1785,Drinking only juice detoxes the body completely,myth,social_media
+1786,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1787,Intermittent fasting may improve some health markers,uncertain,social_media
+1788,ginger tea could help with digestion,uncertain,medical_source
+1789,Vaccination reduces risk of infectious diseases,reliable,tiktok
+1790,Vaccination reduces risk of infectious diseases,reliable,youtube
+1791,Vaccines permanently weaken the immune system,myth,medical_source
+1792,green tea could help with digestion,uncertain,youtube
+1793,Vaccines permanently weaken the immune system,myth,medical_source
+1794,Green tea might support metabolism,uncertain,health_journal
+1795,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1796,apple cider vinegar cures all diseases,myth,youtube
+1797,Vaccination reduces risk of infectious diseases,reliable,social_media
+1798,Drinking only juice detoxes the body completely,myth,blog
+1799,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1800,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1801,Green tea might support metabolism,uncertain,health_journal
+1802,honey instantly lowers blood sugar,myth,social_media
+1803,turmeric may help improve concentration,uncertain,medical_source
+1804,Intermittent fasting may improve some health markers,uncertain,health_journal
+1805,Doctors hide natural cures from patients,myth,health_journal
+1806,Doctors hide natural cures from patients,myth,blog
+1807,green tea could help with digestion,uncertain,social_media
+1808,lemon water cures all diseases,myth,health_journal
+1809,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1810,turmeric could help with digestion,uncertain,blog
+1811,Regular sleep supports brain function,reliable,medical_source
+1812,garlic cures all diseases,myth,social_media
+1813,lemon water cures all diseases,myth,tiktok
+1814,apple cider vinegar cures all diseases,myth,medical_source
+1815,Green tea might support metabolism,uncertain,tiktok
+1816,Exercise helps maintain cardiovascular health,reliable,medical_source
+1817,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1818,Green tea might support metabolism,uncertain,health_journal
+1819,Regular sleep supports brain function,reliable,forum
+1820,Exercise helps maintain cardiovascular health,reliable,health_journal
+1821,honey may help improve concentration,uncertain,medical_source
+1822,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1823,Doctors hide natural cures from patients,myth,forum
+1824,Green tea might support metabolism,uncertain,tiktok
+1825,Vaccines permanently weaken the immune system,myth,social_media
+1826,Regular sleep supports brain function,reliable,medical_source
+1827,Regular sleep supports brain function,reliable,forum
+1828,Exercise helps maintain cardiovascular health,reliable,health_journal
+1829,apple cider vinegar may help improve concentration,uncertain,forum
+1830,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1831,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1832,Intermittent fasting may improve some health markers,uncertain,health_journal
+1833,Exercise helps maintain cardiovascular health,reliable,tiktok
+1834,Vaccination reduces risk of infectious diseases,reliable,youtube
+1835,Green tea might support metabolism,uncertain,forum
+1836,green tea could help with digestion,uncertain,blog
+1837,Vaccines permanently weaken the immune system,myth,forum
+1838,Eating fruits and vegetables supports immunity,reliable,health_journal
+1839,Intermittent fasting may improve some health markers,uncertain,medical_source
+1840,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1841,Regular sleep supports brain function,reliable,medical_source
+1842,Green tea might support metabolism,uncertain,forum
+1843,Regular sleep supports brain function,reliable,health_journal
+1844,lemon water instantly lowers blood sugar,myth,health_journal
+1845,ginger tea instantly lowers blood sugar,myth,social_media
+1846,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1847,Certain herbal remedies may reduce stress,uncertain,tiktok
+1848,Eating fruits and vegetables supports immunity,reliable,health_journal
+1849,Green tea might support metabolism,uncertain,medical_source
+1850,lemon water could help with digestion,uncertain,tiktok
+1851,ginger tea cures all diseases,myth,tiktok
+1852,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1853,green tea cures all diseases,myth,blog
+1854,lemon water instantly lowers blood sugar,myth,health_journal
+1855,Exercise helps maintain cardiovascular health,reliable,forum
+1856,Exercise helps maintain cardiovascular health,reliable,medical_source
+1857,Eating fruits and vegetables supports immunity,reliable,tiktok
+1858,apple cider vinegar may help improve concentration,uncertain,health_journal
+1859,Exercise helps maintain cardiovascular health,reliable,health_journal
+1860,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1861,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1862,garlic may help improve concentration,uncertain,social_media
+1863,Intermittent fasting may improve some health markers,uncertain,social_media
+1864,green tea may help improve concentration,uncertain,tiktok
+1865,Vaccination reduces risk of infectious diseases,reliable,social_media
+1866,Green tea might support metabolism,uncertain,medical_source
+1867,Certain herbal remedies may reduce stress,uncertain,forum
+1868,Exercise helps maintain cardiovascular health,reliable,health_journal
+1869,Vaccination reduces risk of infectious diseases,reliable,medical_source
+1870,lemon water may help improve concentration,uncertain,medical_source
+1871,Vaccination reduces risk of infectious diseases,reliable,blog
+1872,Regular sleep supports brain function,reliable,health_journal
+1873,honey instantly lowers blood sugar,myth,youtube
+1874,Regular sleep supports brain function,reliable,blog
+1875,lemon water instantly lowers blood sugar,myth,youtube
+1876,Eating fruits and vegetables supports immunity,reliable,youtube
+1877,Intermittent fasting may improve some health markers,uncertain,youtube
+1878,Doctors hide natural cures from patients,myth,blog
+1879,Washing hands reduces spread of bacteria and viruses,reliable,forum
+1880,Intermittent fasting may improve some health markers,uncertain,tiktok
+1881,garlic cures all diseases,myth,medical_source
+1882,Doctors hide natural cures from patients,myth,health_journal
+1883,Vaccines permanently weaken the immune system,myth,blog
+1884,Certain herbal remedies may reduce stress,uncertain,forum
+1885,lemon water cures all diseases,myth,youtube
+1886,Intermittent fasting may improve some health markers,uncertain,social_media
+1887,Doctors hide natural cures from patients,myth,tiktok
+1888,Certain herbal remedies may reduce stress,uncertain,forum
+1889,Vaccination reduces risk of infectious diseases,reliable,youtube
+1890,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1891,Vaccination reduces risk of infectious diseases,reliable,blog
+1892,Vaccination reduces risk of infectious diseases,reliable,youtube
+1893,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1894,lemon water may help improve concentration,uncertain,tiktok
+1895,Vaccines permanently weaken the immune system,myth,youtube
+1896,Certain herbal remedies may reduce stress,uncertain,tiktok
+1897,ginger tea may help improve concentration,uncertain,social_media
+1898,Certain herbal remedies may reduce stress,uncertain,medical_source
+1899,Certain herbal remedies may reduce stress,uncertain,youtube
+1900,Green tea might support metabolism,uncertain,social_media
+1901,garlic cures all diseases,myth,youtube
+1902,Drinking only juice detoxes the body completely,myth,social_media
+1903,Certain herbal remedies may reduce stress,uncertain,youtube
+1904,Vaccination reduces risk of infectious diseases,reliable,health_journal
+1905,Certain herbal remedies may reduce stress,uncertain,forum
+1906,Regular sleep supports brain function,reliable,medical_source
+1907,Eating fruits and vegetables supports immunity,reliable,health_journal
+1908,Vaccination reduces risk of infectious diseases,reliable,blog
+1909,Eating fruits and vegetables supports immunity,reliable,forum
+1910,apple cider vinegar cures all diseases,myth,blog
+1911,Exercise helps maintain cardiovascular health,reliable,tiktok
+1912,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1913,Certain herbal remedies may reduce stress,uncertain,medical_source
+1914,Intermittent fasting may improve some health markers,uncertain,health_journal
+1915,turmeric could help with digestion,uncertain,medical_source
+1916,Vaccines permanently weaken the immune system,myth,social_media
+1917,Green tea might support metabolism,uncertain,forum
+1918,Doctors hide natural cures from patients,myth,social_media
+1919,garlic instantly lowers blood sugar,myth,tiktok
+1920,Regular sleep supports brain function,reliable,forum
+1921,Eating fruits and vegetables supports immunity,reliable,forum
+1922,Drinking only juice detoxes the body completely,myth,youtube
+1923,Vaccines permanently weaken the immune system,myth,youtube
+1924,Certain herbal remedies may reduce stress,uncertain,tiktok
+1925,Drinking only juice detoxes the body completely,myth,tiktok
+1926,Doctors hide natural cures from patients,myth,tiktok
+1927,Certain herbal remedies may reduce stress,uncertain,tiktok
+1928,Green tea might support metabolism,uncertain,forum
+1929,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1930,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+1931,Drinking only juice detoxes the body completely,myth,forum
+1932,garlic may help improve concentration,uncertain,forum
+1933,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1934,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+1935,Green tea might support metabolism,uncertain,medical_source
+1936,Certain herbal remedies may reduce stress,uncertain,forum
+1937,Eating fruits and vegetables supports immunity,reliable,youtube
+1938,garlic instantly lowers blood sugar,myth,medical_source
+1939,Certain herbal remedies may reduce stress,uncertain,forum
+1940,Regular sleep supports brain function,reliable,medical_source
+1941,Vaccination reduces risk of infectious diseases,reliable,social_media
+1942,Certain herbal remedies may reduce stress,uncertain,medical_source
+1943,Certain herbal remedies may reduce stress,uncertain,medical_source
+1944,Vaccines permanently weaken the immune system,myth,social_media
+1945,Eating fruits and vegetables supports immunity,reliable,health_journal
+1946,green tea may help improve concentration,uncertain,medical_source
+1947,Regular sleep supports brain function,reliable,forum
+1948,Intermittent fasting may improve some health markers,uncertain,health_journal
+1949,Eating fruits and vegetables supports immunity,reliable,forum
+1950,Vaccination reduces risk of infectious diseases,reliable,social_media
+1951,Vaccination reduces risk of infectious diseases,reliable,blog
+1952,Green tea might support metabolism,uncertain,medical_source
+1953,Intermittent fasting may improve some health markers,uncertain,social_media
+1954,Eating fruits and vegetables supports immunity,reliable,social_media
+1955,lemon water instantly lowers blood sugar,myth,health_journal
+1956,apple cider vinegar instantly lowers blood sugar,myth,youtube
+1957,Exercise helps maintain cardiovascular health,reliable,health_journal
+1958,green tea instantly lowers blood sugar,myth,youtube
+1959,Washing hands reduces spread of bacteria and viruses,reliable,blog
+1960,honey instantly lowers blood sugar,myth,blog
+1961,Doctors hide natural cures from patients,myth,tiktok
+1962,Doctors hide natural cures from patients,myth,forum
+1963,Vaccination reduces risk of infectious diseases,reliable,social_media
+1964,Certain herbal remedies may reduce stress,uncertain,health_journal
+1965,ginger tea could help with digestion,uncertain,youtube
+1966,Certain herbal remedies may reduce stress,uncertain,forum
+1967,Doctors hide natural cures from patients,myth,youtube
+1968,Exercise helps maintain cardiovascular health,reliable,blog
+1969,Intermittent fasting may improve some health markers,uncertain,health_journal
+1970,Doctors hide natural cures from patients,myth,social_media
+1971,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+1972,apple cider vinegar instantly lowers blood sugar,myth,health_journal
+1973,Vaccines permanently weaken the immune system,myth,medical_source
+1974,Doctors hide natural cures from patients,myth,forum
+1975,Drinking only juice detoxes the body completely,myth,medical_source
+1976,Eating fruits and vegetables supports immunity,reliable,blog
+1977,green tea cures all diseases,myth,blog
+1978,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+1979,Exercise helps maintain cardiovascular health,reliable,medical_source
+1980,Green tea might support metabolism,uncertain,tiktok
+1981,Eating fruits and vegetables supports immunity,reliable,tiktok
+1982,Intermittent fasting may improve some health markers,uncertain,social_media
+1983,turmeric could help with digestion,uncertain,medical_source
+1984,Green tea might support metabolism,uncertain,blog
+1985,Vaccination reduces risk of infectious diseases,reliable,youtube
+1986,Eating fruits and vegetables supports immunity,reliable,blog
+1987,Vaccines permanently weaken the immune system,myth,blog
+1988,garlic may help improve concentration,uncertain,tiktok
+1989,Vaccines permanently weaken the immune system,myth,tiktok
+1990,Eating fruits and vegetables supports immunity,reliable,tiktok
+1991,green tea may help improve concentration,uncertain,medical_source
+1992,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+1993,Vaccination reduces risk of infectious diseases,reliable,forum
+1994,Eating fruits and vegetables supports immunity,reliable,medical_source
+1995,Exercise helps maintain cardiovascular health,reliable,social_media
+1996,Certain herbal remedies may reduce stress,uncertain,blog
+1997,Green tea might support metabolism,uncertain,blog
+1998,Doctors hide natural cures from patients,myth,youtube
+1999,Doctors hide natural cures from patients,myth,medical_source
+2000,Vaccination reduces risk of infectious diseases,reliable,forum
+2001,ginger tea may help improve concentration,uncertain,youtube
+2002,Doctors hide natural cures from patients,myth,social_media
+2003,Eating fruits and vegetables supports immunity,reliable,blog
+2004,garlic may help improve concentration,uncertain,blog
+2005,Eating fruits and vegetables supports immunity,reliable,youtube
+2006,Drinking only juice detoxes the body completely,myth,health_journal
+2007,Certain herbal remedies may reduce stress,uncertain,forum
+2008,Eating fruits and vegetables supports immunity,reliable,forum
+2009,apple cider vinegar instantly lowers blood sugar,myth,blog
+2010,honey could help with digestion,uncertain,blog
+2011,honey may help improve concentration,uncertain,forum
+2012,Vaccines permanently weaken the immune system,myth,health_journal
+2013,Green tea might support metabolism,uncertain,blog
+2014,Eating fruits and vegetables supports immunity,reliable,health_journal
+2015,ginger tea may help improve concentration,uncertain,medical_source
+2016,Vaccination reduces risk of infectious diseases,reliable,tiktok
+2017,Regular sleep supports brain function,reliable,social_media
+2018,Eating fruits and vegetables supports immunity,reliable,youtube
+2019,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2020,Vaccines permanently weaken the immune system,myth,blog
+2021,ginger tea could help with digestion,uncertain,health_journal
+2022,Eating fruits and vegetables supports immunity,reliable,forum
+2023,Intermittent fasting may improve some health markers,uncertain,social_media
+2024,apple cider vinegar instantly lowers blood sugar,myth,medical_source
+2025,Regular sleep supports brain function,reliable,blog
+2026,Exercise helps maintain cardiovascular health,reliable,forum
+2027,Intermittent fasting may improve some health markers,uncertain,health_journal
+2028,Intermittent fasting may improve some health markers,uncertain,health_journal
+2029,Drinking only juice detoxes the body completely,myth,forum
+2030,green tea could help with digestion,uncertain,tiktok
+2031,Regular sleep supports brain function,reliable,tiktok
+2032,Drinking only juice detoxes the body completely,myth,social_media
+2033,Drinking only juice detoxes the body completely,myth,health_journal
+2034,turmeric could help with digestion,uncertain,health_journal
+2035,Green tea might support metabolism,uncertain,forum
+2036,honey may help improve concentration,uncertain,blog
+2037,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2038,Regular sleep supports brain function,reliable,health_journal
+2039,Regular sleep supports brain function,reliable,forum
+2040,Doctors hide natural cures from patients,myth,social_media
+2041,Doctors hide natural cures from patients,myth,medical_source
+2042,ginger tea cures all diseases,myth,forum
+2043,Regular sleep supports brain function,reliable,social_media
+2044,Doctors hide natural cures from patients,myth,health_journal
+2045,Certain herbal remedies may reduce stress,uncertain,forum
+2046,green tea instantly lowers blood sugar,myth,health_journal
+2047,Exercise helps maintain cardiovascular health,reliable,health_journal
+2048,Eating fruits and vegetables supports immunity,reliable,social_media
+2049,garlic may help improve concentration,uncertain,forum
+2050,Doctors hide natural cures from patients,myth,social_media
+2051,lemon water may help improve concentration,uncertain,tiktok
+2052,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2053,Certain herbal remedies may reduce stress,uncertain,medical_source
+2054,Exercise helps maintain cardiovascular health,reliable,health_journal
+2055,Green tea might support metabolism,uncertain,blog
+2056,lemon water instantly lowers blood sugar,myth,forum
+2057,apple cider vinegar may help improve concentration,uncertain,social_media
+2058,Drinking only juice detoxes the body completely,myth,forum
+2059,lemon water instantly lowers blood sugar,myth,social_media
+2060,Eating fruits and vegetables supports immunity,reliable,health_journal
+2061,Drinking only juice detoxes the body completely,myth,tiktok
+2062,Eating fruits and vegetables supports immunity,reliable,medical_source
+2063,Regular sleep supports brain function,reliable,blog
+2064,green tea may help improve concentration,uncertain,tiktok
+2065,ginger tea could help with digestion,uncertain,tiktok
+2066,Doctors hide natural cures from patients,myth,youtube
+2067,honey may help improve concentration,uncertain,social_media
+2068,turmeric cures all diseases,myth,social_media
+2069,ginger tea could help with digestion,uncertain,youtube
+2070,green tea may help improve concentration,uncertain,social_media
+2071,Intermittent fasting may improve some health markers,uncertain,forum
+2072,garlic could help with digestion,uncertain,tiktok
+2073,lemon water instantly lowers blood sugar,myth,youtube
+2074,Intermittent fasting may improve some health markers,uncertain,social_media
+2075,Intermittent fasting may improve some health markers,uncertain,youtube
+2076,Intermittent fasting may improve some health markers,uncertain,social_media
+2077,Vaccines permanently weaken the immune system,myth,health_journal
+2078,honey may help improve concentration,uncertain,tiktok
+2079,turmeric cures all diseases,myth,medical_source
+2080,Intermittent fasting may improve some health markers,uncertain,tiktok
+2081,Vaccination reduces risk of infectious diseases,reliable,medical_source
+2082,Exercise helps maintain cardiovascular health,reliable,health_journal
+2083,green tea could help with digestion,uncertain,health_journal
+2084,Eating fruits and vegetables supports immunity,reliable,blog
+2085,lemon water could help with digestion,uncertain,health_journal
+2086,Certain herbal remedies may reduce stress,uncertain,medical_source
+2087,turmeric instantly lowers blood sugar,myth,medical_source
+2088,Green tea might support metabolism,uncertain,tiktok
+2089,Drinking only juice detoxes the body completely,myth,medical_source
+2090,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2091,lemon water instantly lowers blood sugar,myth,social_media
+2092,Intermittent fasting may improve some health markers,uncertain,medical_source
+2093,Intermittent fasting may improve some health markers,uncertain,health_journal
+2094,Vaccination reduces risk of infectious diseases,reliable,blog
+2095,Certain herbal remedies may reduce stress,uncertain,forum
+2096,Certain herbal remedies may reduce stress,uncertain,forum
+2097,Certain herbal remedies may reduce stress,uncertain,health_journal
+2098,Doctors hide natural cures from patients,myth,social_media
+2099,garlic instantly lowers blood sugar,myth,blog
+2100,Doctors hide natural cures from patients,myth,health_journal
+2101,Eating fruits and vegetables supports immunity,reliable,blog
+2102,Eating fruits and vegetables supports immunity,reliable,tiktok
+2103,Doctors hide natural cures from patients,myth,blog
+2104,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2105,ginger tea may help improve concentration,uncertain,tiktok
+2106,Drinking only juice detoxes the body completely,myth,blog
+2107,garlic instantly lowers blood sugar,myth,health_journal
+2108,honey may help improve concentration,uncertain,tiktok
+2109,Exercise helps maintain cardiovascular health,reliable,tiktok
+2110,Intermittent fasting may improve some health markers,uncertain,youtube
+2111,Vaccination reduces risk of infectious diseases,reliable,tiktok
+2112,Exercise helps maintain cardiovascular health,reliable,medical_source
+2113,Intermittent fasting may improve some health markers,uncertain,tiktok
+2114,Eating fruits and vegetables supports immunity,reliable,medical_source
+2115,honey instantly lowers blood sugar,myth,blog
+2116,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2117,Eating fruits and vegetables supports immunity,reliable,forum
+2118,Vaccines permanently weaken the immune system,myth,blog
+2119,Regular sleep supports brain function,reliable,forum
+2120,Exercise helps maintain cardiovascular health,reliable,medical_source
+2121,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2122,Green tea might support metabolism,uncertain,social_media
+2123,Regular sleep supports brain function,reliable,tiktok
+2124,green tea may help improve concentration,uncertain,blog
+2125,Vaccination reduces risk of infectious diseases,reliable,medical_source
+2126,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2127,Doctors hide natural cures from patients,myth,blog
+2128,Exercise helps maintain cardiovascular health,reliable,youtube
+2129,Drinking only juice detoxes the body completely,myth,forum
+2130,apple cider vinegar may help improve concentration,uncertain,social_media
+2131,Doctors hide natural cures from patients,myth,tiktok
+2132,Vaccines permanently weaken the immune system,myth,forum
+2133,Green tea might support metabolism,uncertain,blog
+2134,honey instantly lowers blood sugar,myth,medical_source
+2135,Regular sleep supports brain function,reliable,blog
+2136,garlic could help with digestion,uncertain,youtube
+2137,Green tea might support metabolism,uncertain,blog
+2138,Exercise helps maintain cardiovascular health,reliable,forum
+2139,Intermittent fasting may improve some health markers,uncertain,forum
+2140,honey instantly lowers blood sugar,myth,health_journal
+2141,green tea may help improve concentration,uncertain,social_media
+2142,Intermittent fasting may improve some health markers,uncertain,forum
+2143,Vaccines permanently weaken the immune system,myth,blog
+2144,Doctors hide natural cures from patients,myth,forum
+2145,apple cider vinegar may help improve concentration,uncertain,tiktok
+2146,Exercise helps maintain cardiovascular health,reliable,social_media
+2147,Vaccines permanently weaken the immune system,myth,youtube
+2148,Exercise helps maintain cardiovascular health,reliable,medical_source
+2149,Certain herbal remedies may reduce stress,uncertain,tiktok
+2150,Doctors hide natural cures from patients,myth,tiktok
+2151,Eating fruits and vegetables supports immunity,reliable,social_media
+2152,Regular sleep supports brain function,reliable,blog
+2153,Exercise helps maintain cardiovascular health,reliable,medical_source
+2154,honey could help with digestion,uncertain,tiktok
+2155,Intermittent fasting may improve some health markers,uncertain,medical_source
+2156,Exercise helps maintain cardiovascular health,reliable,social_media
+2157,Intermittent fasting may improve some health markers,uncertain,social_media
+2158,Vaccines permanently weaken the immune system,myth,blog
+2159,Regular sleep supports brain function,reliable,forum
+2160,Eating fruits and vegetables supports immunity,reliable,social_media
+2161,green tea instantly lowers blood sugar,myth,forum
+2162,turmeric cures all diseases,myth,blog
+2163,ginger tea cures all diseases,myth,tiktok
+2164,Vaccines permanently weaken the immune system,myth,blog
+2165,Vaccination reduces risk of infectious diseases,reliable,blog
+2166,honey may help improve concentration,uncertain,social_media
+2167,Vaccination reduces risk of infectious diseases,reliable,youtube
+2168,garlic instantly lowers blood sugar,myth,tiktok
+2169,Intermittent fasting may improve some health markers,uncertain,social_media
+2170,Green tea might support metabolism,uncertain,blog
+2171,garlic cures all diseases,myth,forum
+2172,honey may help improve concentration,uncertain,blog
+2173,Vaccination reduces risk of infectious diseases,reliable,tiktok
+2174,Green tea might support metabolism,uncertain,health_journal
+2175,Certain herbal remedies may reduce stress,uncertain,health_journal
+2176,lemon water could help with digestion,uncertain,blog
+2177,Doctors hide natural cures from patients,myth,social_media
+2178,lemon water could help with digestion,uncertain,forum
+2179,Certain herbal remedies may reduce stress,uncertain,youtube
+2180,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2181,lemon water cures all diseases,myth,youtube
+2182,apple cider vinegar may help improve concentration,uncertain,youtube
+2183,green tea instantly lowers blood sugar,myth,youtube
+2184,Vaccination reduces risk of infectious diseases,reliable,blog
+2185,Certain herbal remedies may reduce stress,uncertain,forum
+2186,Green tea might support metabolism,uncertain,tiktok
+2187,Green tea might support metabolism,uncertain,tiktok
+2188,Exercise helps maintain cardiovascular health,reliable,health_journal
+2189,Certain herbal remedies may reduce stress,uncertain,youtube
+2190,Eating fruits and vegetables supports immunity,reliable,social_media
+2191,green tea may help improve concentration,uncertain,blog
+2192,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2193,ginger tea may help improve concentration,uncertain,medical_source
+2194,lemon water instantly lowers blood sugar,myth,blog
+2195,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2196,Intermittent fasting may improve some health markers,uncertain,blog
+2197,Intermittent fasting may improve some health markers,uncertain,blog
+2198,green tea cures all diseases,myth,medical_source
+2199,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2200,Vaccines permanently weaken the immune system,myth,social_media
+2201,Vaccines permanently weaken the immune system,myth,tiktok
+2202,Doctors hide natural cures from patients,myth,tiktok
+2203,Vaccination reduces risk of infectious diseases,reliable,forum
+2204,Certain herbal remedies may reduce stress,uncertain,tiktok
+2205,Intermittent fasting may improve some health markers,uncertain,youtube
+2206,ginger tea could help with digestion,uncertain,youtube
+2207,Doctors hide natural cures from patients,myth,tiktok
+2208,lemon water cures all diseases,myth,tiktok
+2209,Regular sleep supports brain function,reliable,blog
+2210,lemon water could help with digestion,uncertain,tiktok
+2211,Doctors hide natural cures from patients,myth,blog
+2212,Intermittent fasting may improve some health markers,uncertain,youtube
+2213,Exercise helps maintain cardiovascular health,reliable,youtube
+2214,Vaccines permanently weaken the immune system,myth,tiktok
+2215,Exercise helps maintain cardiovascular health,reliable,health_journal
+2216,Regular sleep supports brain function,reliable,tiktok
+2217,Drinking only juice detoxes the body completely,myth,blog
+2218,Vaccination reduces risk of infectious diseases,reliable,forum
+2219,Intermittent fasting may improve some health markers,uncertain,youtube
+2220,Vaccines permanently weaken the immune system,myth,social_media
+2221,Intermittent fasting may improve some health markers,uncertain,health_journal
+2222,Green tea might support metabolism,uncertain,youtube
+2223,Green tea might support metabolism,uncertain,forum
+2224,green tea instantly lowers blood sugar,myth,blog
+2225,Vaccination reduces risk of infectious diseases,reliable,youtube
+2226,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2227,Drinking only juice detoxes the body completely,myth,health_journal
+2228,Exercise helps maintain cardiovascular health,reliable,medical_source
+2229,Drinking only juice detoxes the body completely,myth,social_media
+2230,Drinking only juice detoxes the body completely,myth,health_journal
+2231,Vaccines permanently weaken the immune system,myth,health_journal
+2232,Exercise helps maintain cardiovascular health,reliable,blog
+2233,Intermittent fasting may improve some health markers,uncertain,forum
+2234,honey instantly lowers blood sugar,myth,health_journal
+2235,Intermittent fasting may improve some health markers,uncertain,health_journal
+2236,Green tea might support metabolism,uncertain,social_media
+2237,Certain herbal remedies may reduce stress,uncertain,medical_source
+2238,Vaccination reduces risk of infectious diseases,reliable,youtube
+2239,Certain herbal remedies may reduce stress,uncertain,social_media
+2240,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2241,Regular sleep supports brain function,reliable,forum
+2242,Exercise helps maintain cardiovascular health,reliable,blog
+2243,Certain herbal remedies may reduce stress,uncertain,youtube
+2244,Certain herbal remedies may reduce stress,uncertain,medical_source
+2245,lemon water instantly lowers blood sugar,myth,tiktok
+2246,Certain herbal remedies may reduce stress,uncertain,tiktok
+2247,ginger tea instantly lowers blood sugar,myth,forum
+2248,Eating fruits and vegetables supports immunity,reliable,youtube
+2249,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2250,Green tea might support metabolism,uncertain,forum
+2251,turmeric instantly lowers blood sugar,myth,medical_source
+2252,lemon water cures all diseases,myth,social_media
+2253,Vaccination reduces risk of infectious diseases,reliable,forum
+2254,Intermittent fasting may improve some health markers,uncertain,medical_source
+2255,Doctors hide natural cures from patients,myth,social_media
+2256,Doctors hide natural cures from patients,myth,forum
+2257,lemon water cures all diseases,myth,forum
+2258,Exercise helps maintain cardiovascular health,reliable,blog
+2259,Eating fruits and vegetables supports immunity,reliable,health_journal
+2260,Drinking only juice detoxes the body completely,myth,forum
+2261,Drinking only juice detoxes the body completely,myth,medical_source
+2262,Exercise helps maintain cardiovascular health,reliable,blog
+2263,Regular sleep supports brain function,reliable,health_journal
+2264,Certain herbal remedies may reduce stress,uncertain,health_journal
+2265,lemon water may help improve concentration,uncertain,tiktok
+2266,Vaccines permanently weaken the immune system,myth,youtube
+2267,garlic cures all diseases,myth,social_media
+2268,apple cider vinegar could help with digestion,uncertain,medical_source
+2269,Green tea might support metabolism,uncertain,social_media
+2270,Doctors hide natural cures from patients,myth,youtube
+2271,Drinking only juice detoxes the body completely,myth,health_journal
+2272,Green tea might support metabolism,uncertain,health_journal
+2273,Intermittent fasting may improve some health markers,uncertain,tiktok
+2274,lemon water instantly lowers blood sugar,myth,social_media
+2275,green tea may help improve concentration,uncertain,health_journal
+2276,Drinking only juice detoxes the body completely,myth,youtube
+2277,Eating fruits and vegetables supports immunity,reliable,youtube
+2278,Intermittent fasting may improve some health markers,uncertain,youtube
+2279,ginger tea instantly lowers blood sugar,myth,tiktok
+2280,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2281,Green tea might support metabolism,uncertain,forum
+2282,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2283,Vaccines permanently weaken the immune system,myth,medical_source
+2284,ginger tea cures all diseases,myth,medical_source
+2285,Exercise helps maintain cardiovascular health,reliable,social_media
+2286,Eating fruits and vegetables supports immunity,reliable,forum
+2287,Doctors hide natural cures from patients,myth,blog
+2288,Exercise helps maintain cardiovascular health,reliable,social_media
+2289,Intermittent fasting may improve some health markers,uncertain,forum
+2290,Vaccination reduces risk of infectious diseases,reliable,tiktok
+2291,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2292,green tea could help with digestion,uncertain,social_media
+2293,Vaccination reduces risk of infectious diseases,reliable,forum
+2294,Doctors hide natural cures from patients,myth,social_media
+2295,Certain herbal remedies may reduce stress,uncertain,youtube
+2296,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2297,Vaccination reduces risk of infectious diseases,reliable,forum
+2298,Certain herbal remedies may reduce stress,uncertain,social_media
+2299,lemon water instantly lowers blood sugar,myth,medical_source
+2300,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2301,Regular sleep supports brain function,reliable,social_media
+2302,Vaccination reduces risk of infectious diseases,reliable,tiktok
+2303,Certain herbal remedies may reduce stress,uncertain,medical_source
+2304,Eating fruits and vegetables supports immunity,reliable,forum
+2305,Vaccination reduces risk of infectious diseases,reliable,social_media
+2306,Drinking only juice detoxes the body completely,myth,tiktok
+2307,garlic may help improve concentration,uncertain,youtube
+2308,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2309,Eating fruits and vegetables supports immunity,reliable,youtube
+2310,Eating fruits and vegetables supports immunity,reliable,health_journal
+2311,Regular sleep supports brain function,reliable,forum
+2312,apple cider vinegar instantly lowers blood sugar,myth,tiktok
+2313,Regular sleep supports brain function,reliable,forum
+2314,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2315,lemon water could help with digestion,uncertain,blog
+2316,garlic may help improve concentration,uncertain,blog
+2317,Vaccines permanently weaken the immune system,myth,youtube
+2318,honey cures all diseases,myth,social_media
+2319,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2320,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2321,Doctors hide natural cures from patients,myth,blog
+2322,Vaccination reduces risk of infectious diseases,reliable,social_media
+2323,Doctors hide natural cures from patients,myth,forum
+2324,ginger tea could help with digestion,uncertain,tiktok
+2325,Vaccines permanently weaken the immune system,myth,medical_source
+2326,turmeric cures all diseases,myth,social_media
+2327,honey could help with digestion,uncertain,tiktok
+2328,Eating fruits and vegetables supports immunity,reliable,blog
+2329,Regular sleep supports brain function,reliable,tiktok
+2330,Regular sleep supports brain function,reliable,social_media
+2331,Intermittent fasting may improve some health markers,uncertain,social_media
+2332,Doctors hide natural cures from patients,myth,medical_source
+2333,ginger tea instantly lowers blood sugar,myth,blog
+2334,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2335,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2336,Exercise helps maintain cardiovascular health,reliable,youtube
+2337,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2338,green tea could help with digestion,uncertain,forum
+2339,Regular sleep supports brain function,reliable,youtube
+2340,turmeric instantly lowers blood sugar,myth,health_journal
+2341,Intermittent fasting may improve some health markers,uncertain,medical_source
+2342,green tea cures all diseases,myth,medical_source
+2343,Exercise helps maintain cardiovascular health,reliable,health_journal
+2344,green tea could help with digestion,uncertain,health_journal
+2345,Exercise helps maintain cardiovascular health,reliable,social_media
+2346,apple cider vinegar could help with digestion,uncertain,forum
+2347,Certain herbal remedies may reduce stress,uncertain,tiktok
+2348,Certain herbal remedies may reduce stress,uncertain,medical_source
+2349,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2350,garlic cures all diseases,myth,health_journal
+2351,Drinking only juice detoxes the body completely,myth,social_media
+2352,Certain herbal remedies may reduce stress,uncertain,social_media
+2353,Green tea might support metabolism,uncertain,social_media
+2354,Green tea might support metabolism,uncertain,medical_source
+2355,Exercise helps maintain cardiovascular health,reliable,blog
+2356,green tea cures all diseases,myth,youtube
+2357,ginger tea could help with digestion,uncertain,medical_source
+2358,Drinking only juice detoxes the body completely,myth,medical_source
+2359,Vaccines permanently weaken the immune system,myth,youtube
+2360,Vaccination reduces risk of infectious diseases,reliable,youtube
+2361,ginger tea may help improve concentration,uncertain,blog
+2362,honey cures all diseases,myth,health_journal
+2363,honey cures all diseases,myth,social_media
+2364,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2365,Vaccines permanently weaken the immune system,myth,social_media
+2366,Eating fruits and vegetables supports immunity,reliable,social_media
+2367,green tea cures all diseases,myth,youtube
+2368,Regular sleep supports brain function,reliable,blog
+2369,honey cures all diseases,myth,tiktok
+2370,Green tea might support metabolism,uncertain,tiktok
+2371,Regular sleep supports brain function,reliable,medical_source
+2372,Green tea might support metabolism,uncertain,medical_source
+2373,ginger tea cures all diseases,myth,health_journal
+2374,ginger tea cures all diseases,myth,blog
+2375,Green tea might support metabolism,uncertain,medical_source
+2376,honey instantly lowers blood sugar,myth,health_journal
+2377,green tea could help with digestion,uncertain,youtube
+2378,Eating fruits and vegetables supports immunity,reliable,tiktok
+2379,Doctors hide natural cures from patients,myth,forum
+2380,Eating fruits and vegetables supports immunity,reliable,youtube
+2381,Drinking only juice detoxes the body completely,myth,health_journal
+2382,Doctors hide natural cures from patients,myth,social_media
+2383,ginger tea could help with digestion,uncertain,tiktok
+2384,turmeric cures all diseases,myth,medical_source
+2385,apple cider vinegar could help with digestion,uncertain,medical_source
+2386,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2387,Regular sleep supports brain function,reliable,tiktok
+2388,Green tea might support metabolism,uncertain,blog
+2389,Doctors hide natural cures from patients,myth,youtube
+2390,Drinking only juice detoxes the body completely,myth,forum
+2391,green tea cures all diseases,myth,health_journal
+2392,Exercise helps maintain cardiovascular health,reliable,social_media
+2393,Green tea might support metabolism,uncertain,social_media
+2394,Drinking only juice detoxes the body completely,myth,tiktok
+2395,Intermittent fasting may improve some health markers,uncertain,medical_source
+2396,Drinking only juice detoxes the body completely,myth,health_journal
+2397,Drinking only juice detoxes the body completely,myth,youtube
+2398,Vaccines permanently weaken the immune system,myth,medical_source
+2399,Intermittent fasting may improve some health markers,uncertain,medical_source
+2400,green tea instantly lowers blood sugar,myth,youtube
+2401,Intermittent fasting may improve some health markers,uncertain,tiktok
+2402,Regular sleep supports brain function,reliable,forum
+2403,Exercise helps maintain cardiovascular health,reliable,medical_source
+2404,Vaccines permanently weaken the immune system,myth,medical_source
+2405,Certain herbal remedies may reduce stress,uncertain,tiktok
+2406,Drinking only juice detoxes the body completely,myth,health_journal
+2407,Vaccination reduces risk of infectious diseases,reliable,youtube
+2408,green tea could help with digestion,uncertain,health_journal
+2409,Certain herbal remedies may reduce stress,uncertain,blog
+2410,Exercise helps maintain cardiovascular health,reliable,youtube
+2411,Regular sleep supports brain function,reliable,youtube
+2412,Regular sleep supports brain function,reliable,social_media
+2413,Regular sleep supports brain function,reliable,youtube
+2414,Certain herbal remedies may reduce stress,uncertain,blog
+2415,Exercise helps maintain cardiovascular health,reliable,social_media
+2416,lemon water may help improve concentration,uncertain,blog
+2417,Intermittent fasting may improve some health markers,uncertain,health_journal
+2418,Vaccination reduces risk of infectious diseases,reliable,social_media
+2419,Regular sleep supports brain function,reliable,forum
+2420,Drinking only juice detoxes the body completely,myth,health_journal
+2421,Exercise helps maintain cardiovascular health,reliable,social_media
+2422,honey could help with digestion,uncertain,youtube
+2423,apple cider vinegar may help improve concentration,uncertain,tiktok
+2424,Eating fruits and vegetables supports immunity,reliable,youtube
+2425,Eating fruits and vegetables supports immunity,reliable,medical_source
+2426,Doctors hide natural cures from patients,myth,youtube
+2427,ginger tea could help with digestion,uncertain,youtube
+2428,ginger tea cures all diseases,myth,health_journal
+2429,Eating fruits and vegetables supports immunity,reliable,tiktok
+2430,ginger tea could help with digestion,uncertain,forum
+2431,Doctors hide natural cures from patients,myth,medical_source
+2432,Exercise helps maintain cardiovascular health,reliable,tiktok
+2433,honey instantly lowers blood sugar,myth,health_journal
+2434,Eating fruits and vegetables supports immunity,reliable,tiktok
+2435,green tea cures all diseases,myth,medical_source
+2436,Drinking only juice detoxes the body completely,myth,forum
+2437,Eating fruits and vegetables supports immunity,reliable,forum
+2438,turmeric could help with digestion,uncertain,tiktok
+2439,Certain herbal remedies may reduce stress,uncertain,social_media
+2440,Vaccines permanently weaken the immune system,myth,health_journal
+2441,honey instantly lowers blood sugar,myth,tiktok
+2442,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2443,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2444,Exercise helps maintain cardiovascular health,reliable,medical_source
+2445,Regular sleep supports brain function,reliable,tiktok
+2446,Green tea might support metabolism,uncertain,blog
+2447,Regular sleep supports brain function,reliable,blog
+2448,Exercise helps maintain cardiovascular health,reliable,forum
+2449,apple cider vinegar could help with digestion,uncertain,social_media
+2450,turmeric may help improve concentration,uncertain,health_journal
+2451,Regular sleep supports brain function,reliable,forum
+2452,Drinking only juice detoxes the body completely,myth,tiktok
+2453,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2454,Drinking only juice detoxes the body completely,myth,health_journal
+2455,apple cider vinegar instantly lowers blood sugar,myth,social_media
+2456,Vaccines permanently weaken the immune system,myth,forum
+2457,Vaccination reduces risk of infectious diseases,reliable,social_media
+2458,apple cider vinegar may help improve concentration,uncertain,health_journal
+2459,Intermittent fasting may improve some health markers,uncertain,youtube
+2460,Certain herbal remedies may reduce stress,uncertain,blog
+2461,Vaccines permanently weaken the immune system,myth,blog
+2462,Exercise helps maintain cardiovascular health,reliable,blog
+2463,Exercise helps maintain cardiovascular health,reliable,social_media
+2464,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2465,Eating fruits and vegetables supports immunity,reliable,tiktok
+2466,lemon water instantly lowers blood sugar,myth,blog
+2467,Eating fruits and vegetables supports immunity,reliable,medical_source
+2468,Doctors hide natural cures from patients,myth,forum
+2469,Doctors hide natural cures from patients,myth,health_journal
+2470,Doctors hide natural cures from patients,myth,blog
+2471,lemon water instantly lowers blood sugar,myth,medical_source
+2472,Regular sleep supports brain function,reliable,forum
+2473,Regular sleep supports brain function,reliable,tiktok
+2474,Green tea might support metabolism,uncertain,social_media
+2475,honey instantly lowers blood sugar,myth,health_journal
+2476,Exercise helps maintain cardiovascular health,reliable,youtube
+2477,Drinking only juice detoxes the body completely,myth,forum
+2478,garlic could help with digestion,uncertain,blog
+2479,ginger tea instantly lowers blood sugar,myth,forum
+2480,Regular sleep supports brain function,reliable,tiktok
+2481,Vaccines permanently weaken the immune system,myth,youtube
+2482,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2483,Intermittent fasting may improve some health markers,uncertain,health_journal
+2484,Exercise helps maintain cardiovascular health,reliable,social_media
+2485,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2486,Vaccination reduces risk of infectious diseases,reliable,youtube
+2487,Vaccines permanently weaken the immune system,myth,social_media
+2488,honey could help with digestion,uncertain,tiktok
+2489,apple cider vinegar cures all diseases,myth,health_journal
+2490,apple cider vinegar could help with digestion,uncertain,medical_source
+2491,green tea could help with digestion,uncertain,medical_source
+2492,Vaccination reduces risk of infectious diseases,reliable,forum
+2493,Certain herbal remedies may reduce stress,uncertain,forum
+2494,Intermittent fasting may improve some health markers,uncertain,medical_source
+2495,Regular sleep supports brain function,reliable,youtube
+2496,Doctors hide natural cures from patients,myth,health_journal
+2497,honey could help with digestion,uncertain,blog
+2498,Regular sleep supports brain function,reliable,blog
+2499,lemon water may help improve concentration,uncertain,youtube
+2500,Vaccination reduces risk of infectious diseases,reliable,youtube
+2501,Doctors hide natural cures from patients,myth,health_journal
+2502,apple cider vinegar instantly lowers blood sugar,myth,tiktok
+2503,garlic could help with digestion,uncertain,blog
+2504,apple cider vinegar may help improve concentration,uncertain,tiktok
+2505,garlic may help improve concentration,uncertain,youtube
+2506,ginger tea instantly lowers blood sugar,myth,forum
+2507,Doctors hide natural cures from patients,myth,blog
+2508,green tea could help with digestion,uncertain,medical_source
+2509,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2510,lemon water could help with digestion,uncertain,forum
+2511,Drinking only juice detoxes the body completely,myth,forum
+2512,garlic could help with digestion,uncertain,tiktok
+2513,Doctors hide natural cures from patients,myth,youtube
+2514,green tea may help improve concentration,uncertain,medical_source
+2515,Doctors hide natural cures from patients,myth,forum
+2516,honey cures all diseases,myth,youtube
+2517,Eating fruits and vegetables supports immunity,reliable,youtube
+2518,Intermittent fasting may improve some health markers,uncertain,health_journal
+2519,garlic instantly lowers blood sugar,myth,forum
+2520,green tea could help with digestion,uncertain,health_journal
+2521,honey cures all diseases,myth,social_media
+2522,Regular sleep supports brain function,reliable,youtube
+2523,Certain herbal remedies may reduce stress,uncertain,forum
+2524,Certain herbal remedies may reduce stress,uncertain,blog
+2525,Drinking only juice detoxes the body completely,myth,tiktok
+2526,Doctors hide natural cures from patients,myth,medical_source
+2527,Doctors hide natural cures from patients,myth,medical_source
+2528,Doctors hide natural cures from patients,myth,health_journal
+2529,Drinking only juice detoxes the body completely,myth,social_media
+2530,lemon water may help improve concentration,uncertain,health_journal
+2531,Green tea might support metabolism,uncertain,social_media
+2532,Exercise helps maintain cardiovascular health,reliable,medical_source
+2533,apple cider vinegar instantly lowers blood sugar,myth,youtube
+2534,Exercise helps maintain cardiovascular health,reliable,youtube
+2535,Eating fruits and vegetables supports immunity,reliable,tiktok
+2536,Intermittent fasting may improve some health markers,uncertain,blog
+2537,Drinking only juice detoxes the body completely,myth,social_media
+2538,Exercise helps maintain cardiovascular health,reliable,youtube
+2539,Intermittent fasting may improve some health markers,uncertain,blog
+2540,turmeric cures all diseases,myth,youtube
+2541,Green tea might support metabolism,uncertain,blog
+2542,Drinking only juice detoxes the body completely,myth,tiktok
+2543,Certain herbal remedies may reduce stress,uncertain,medical_source
+2544,Certain herbal remedies may reduce stress,uncertain,tiktok
+2545,Vaccination reduces risk of infectious diseases,reliable,forum
+2546,Vaccines permanently weaken the immune system,myth,blog
+2547,Intermittent fasting may improve some health markers,uncertain,forum
+2548,Doctors hide natural cures from patients,myth,health_journal
+2549,Vaccination reduces risk of infectious diseases,reliable,blog
+2550,Exercise helps maintain cardiovascular health,reliable,social_media
+2551,Drinking only juice detoxes the body completely,myth,health_journal
+2552,Drinking only juice detoxes the body completely,myth,social_media
+2553,Vaccination reduces risk of infectious diseases,reliable,social_media
+2554,ginger tea could help with digestion,uncertain,tiktok
+2555,Regular sleep supports brain function,reliable,health_journal
+2556,Washing hands reduces spread of bacteria and viruses,reliable,forum
+2557,Eating fruits and vegetables supports immunity,reliable,social_media
+2558,garlic cures all diseases,myth,forum
+2559,Drinking only juice detoxes the body completely,myth,health_journal
+2560,lemon water could help with digestion,uncertain,social_media
+2561,honey cures all diseases,myth,social_media
+2562,garlic instantly lowers blood sugar,myth,youtube
+2563,Vaccines permanently weaken the immune system,myth,forum
+2564,Intermittent fasting may improve some health markers,uncertain,forum
+2565,lemon water could help with digestion,uncertain,youtube
+2566,apple cider vinegar cures all diseases,myth,tiktok
+2567,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2568,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2569,turmeric cures all diseases,myth,tiktok
+2570,Eating fruits and vegetables supports immunity,reliable,forum
+2571,Green tea might support metabolism,uncertain,social_media
+2572,Regular sleep supports brain function,reliable,blog
+2573,Vaccines permanently weaken the immune system,myth,health_journal
+2574,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2575,turmeric may help improve concentration,uncertain,health_journal
+2576,Vaccines permanently weaken the immune system,myth,blog
+2577,Eating fruits and vegetables supports immunity,reliable,blog
+2578,Intermittent fasting may improve some health markers,uncertain,forum
+2579,Drinking only juice detoxes the body completely,myth,youtube
+2580,green tea may help improve concentration,uncertain,tiktok
+2581,green tea cures all diseases,myth,social_media
+2582,ginger tea cures all diseases,myth,blog
+2583,lemon water could help with digestion,uncertain,social_media
+2584,Green tea might support metabolism,uncertain,tiktok
+2585,Regular sleep supports brain function,reliable,youtube
+2586,garlic instantly lowers blood sugar,myth,tiktok
+2587,lemon water could help with digestion,uncertain,tiktok
+2588,Exercise helps maintain cardiovascular health,reliable,forum
+2589,ginger tea may help improve concentration,uncertain,social_media
+2590,apple cider vinegar cures all diseases,myth,medical_source
+2591,Intermittent fasting may improve some health markers,uncertain,social_media
+2592,Intermittent fasting may improve some health markers,uncertain,social_media
+2593,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2594,Exercise helps maintain cardiovascular health,reliable,medical_source
+2595,honey instantly lowers blood sugar,myth,tiktok
+2596,Green tea might support metabolism,uncertain,tiktok
+2597,lemon water cures all diseases,myth,medical_source
+2598,Doctors hide natural cures from patients,myth,health_journal
+2599,Green tea might support metabolism,uncertain,health_journal
+2600,Certain herbal remedies may reduce stress,uncertain,social_media
+2601,Regular sleep supports brain function,reliable,tiktok
+2602,Certain herbal remedies may reduce stress,uncertain,youtube
+2603,Certain herbal remedies may reduce stress,uncertain,health_journal
+2604,Regular sleep supports brain function,reliable,blog
+2605,Vaccines permanently weaken the immune system,myth,forum
+2606,Washing hands reduces spread of bacteria and viruses,reliable,forum
+2607,honey may help improve concentration,uncertain,youtube
+2608,Eating fruits and vegetables supports immunity,reliable,health_journal
+2609,Drinking only juice detoxes the body completely,myth,forum
+2610,Green tea might support metabolism,uncertain,tiktok
+2611,ginger tea may help improve concentration,uncertain,youtube
+2612,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2613,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2614,lemon water cures all diseases,myth,medical_source
+2615,Drinking only juice detoxes the body completely,myth,forum
+2616,Exercise helps maintain cardiovascular health,reliable,medical_source
+2617,Regular sleep supports brain function,reliable,blog
+2618,Certain herbal remedies may reduce stress,uncertain,social_media
+2619,Vaccination reduces risk of infectious diseases,reliable,forum
+2620,honey instantly lowers blood sugar,myth,social_media
+2621,Washing hands reduces spread of bacteria and viruses,reliable,forum
+2622,Intermittent fasting may improve some health markers,uncertain,social_media
+2623,Drinking only juice detoxes the body completely,myth,blog
+2624,Green tea might support metabolism,uncertain,tiktok
+2625,Eating fruits and vegetables supports immunity,reliable,tiktok
+2626,Eating fruits and vegetables supports immunity,reliable,forum
+2627,Doctors hide natural cures from patients,myth,blog
+2628,Doctors hide natural cures from patients,myth,youtube
+2629,Vaccines permanently weaken the immune system,myth,health_journal
+2630,Regular sleep supports brain function,reliable,tiktok
+2631,Vaccines permanently weaken the immune system,myth,forum
+2632,Certain herbal remedies may reduce stress,uncertain,forum
+2633,Green tea might support metabolism,uncertain,health_journal
+2634,turmeric cures all diseases,myth,tiktok
+2635,turmeric cures all diseases,myth,blog
+2636,Exercise helps maintain cardiovascular health,reliable,blog
+2637,Drinking only juice detoxes the body completely,myth,tiktok
+2638,Certain herbal remedies may reduce stress,uncertain,blog
+2639,garlic may help improve concentration,uncertain,social_media
+2640,Regular sleep supports brain function,reliable,blog
+2641,apple cider vinegar instantly lowers blood sugar,myth,youtube
+2642,Regular sleep supports brain function,reliable,forum
+2643,Doctors hide natural cures from patients,myth,blog
+2644,Certain herbal remedies may reduce stress,uncertain,medical_source
+2645,Exercise helps maintain cardiovascular health,reliable,tiktok
+2646,Washing hands reduces spread of bacteria and viruses,reliable,health_journal
+2647,Vaccines permanently weaken the immune system,myth,forum
+2648,Drinking only juice detoxes the body completely,myth,medical_source
+2649,Exercise helps maintain cardiovascular health,reliable,youtube
+2650,Drinking only juice detoxes the body completely,myth,tiktok
+2651,Vaccination reduces risk of infectious diseases,reliable,social_media
+2652,Green tea might support metabolism,uncertain,youtube
+2653,Green tea might support metabolism,uncertain,social_media
+2654,apple cider vinegar instantly lowers blood sugar,myth,blog
+2655,apple cider vinegar instantly lowers blood sugar,myth,youtube
+2656,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2657,Exercise helps maintain cardiovascular health,reliable,blog
+2658,Green tea might support metabolism,uncertain,blog
+2659,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2660,green tea could help with digestion,uncertain,forum
+2661,apple cider vinegar could help with digestion,uncertain,medical_source
+2662,Vaccination reduces risk of infectious diseases,reliable,social_media
+2663,Regular sleep supports brain function,reliable,youtube
+2664,Regular sleep supports brain function,reliable,health_journal
+2665,Eating fruits and vegetables supports immunity,reliable,health_journal
+2666,Intermittent fasting may improve some health markers,uncertain,blog
+2667,Certain herbal remedies may reduce stress,uncertain,youtube
+2668,Vaccination reduces risk of infectious diseases,reliable,social_media
+2669,apple cider vinegar instantly lowers blood sugar,myth,social_media
+2670,Certain herbal remedies may reduce stress,uncertain,blog
+2671,Exercise helps maintain cardiovascular health,reliable,social_media
+2672,Vaccines permanently weaken the immune system,myth,medical_source
+2673,Washing hands reduces spread of bacteria and viruses,reliable,youtube
+2674,Regular sleep supports brain function,reliable,blog
+2675,ginger tea cures all diseases,myth,forum
+2676,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2677,Vaccines permanently weaken the immune system,myth,blog
+2678,garlic instantly lowers blood sugar,myth,youtube
+2679,garlic instantly lowers blood sugar,myth,forum
+2680,Intermittent fasting may improve some health markers,uncertain,blog
+2681,Regular sleep supports brain function,reliable,youtube
+2682,Vaccination reduces risk of infectious diseases,reliable,youtube
+2683,Vaccines permanently weaken the immune system,myth,medical_source
+2684,Regular sleep supports brain function,reliable,forum
+2685,Eating fruits and vegetables supports immunity,reliable,blog
+2686,Green tea might support metabolism,uncertain,social_media
+2687,ginger tea cures all diseases,myth,tiktok
+2688,lemon water instantly lowers blood sugar,myth,forum
+2689,turmeric instantly lowers blood sugar,myth,health_journal
+2690,Green tea might support metabolism,uncertain,forum
+2691,lemon water could help with digestion,uncertain,blog
+2692,garlic could help with digestion,uncertain,social_media
+2693,Doctors hide natural cures from patients,myth,social_media
+2694,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2695,Green tea might support metabolism,uncertain,health_journal
+2696,Intermittent fasting may improve some health markers,uncertain,tiktok
+2697,Green tea might support metabolism,uncertain,youtube
+2698,Regular sleep supports brain function,reliable,health_journal
+2699,ginger tea may help improve concentration,uncertain,health_journal
+2700,Drinking only juice detoxes the body completely,myth,health_journal
+2701,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2702,Eating fruits and vegetables supports immunity,reliable,blog
+2703,green tea cures all diseases,myth,tiktok
+2704,Vaccines permanently weaken the immune system,myth,youtube
+2705,Drinking only juice detoxes the body completely,myth,youtube
+2706,Certain herbal remedies may reduce stress,uncertain,forum
+2707,Certain herbal remedies may reduce stress,uncertain,youtube
+2708,Green tea might support metabolism,uncertain,social_media
+2709,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2710,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2711,Certain herbal remedies may reduce stress,uncertain,blog
+2712,Eating fruits and vegetables supports immunity,reliable,health_journal
+2713,Vaccination reduces risk of infectious diseases,reliable,blog
+2714,Drinking only juice detoxes the body completely,myth,tiktok
+2715,Eating fruits and vegetables supports immunity,reliable,forum
+2716,Regular sleep supports brain function,reliable,tiktok
+2717,turmeric instantly lowers blood sugar,myth,tiktok
+2718,honey cures all diseases,myth,health_journal
+2719,lemon water cures all diseases,myth,health_journal
+2720,turmeric instantly lowers blood sugar,myth,youtube
+2721,Intermittent fasting may improve some health markers,uncertain,medical_source
+2722,Green tea might support metabolism,uncertain,medical_source
+2723,Intermittent fasting may improve some health markers,uncertain,forum
+2724,Green tea might support metabolism,uncertain,social_media
+2725,Regular sleep supports brain function,reliable,forum
+2726,turmeric could help with digestion,uncertain,tiktok
+2727,Certain herbal remedies may reduce stress,uncertain,medical_source
+2728,green tea could help with digestion,uncertain,health_journal
+2729,Vaccines permanently weaken the immune system,myth,youtube
+2730,Green tea might support metabolism,uncertain,tiktok
+2731,Vaccines permanently weaken the immune system,myth,tiktok
+2732,Doctors hide natural cures from patients,myth,forum
+2733,Drinking only juice detoxes the body completely,myth,medical_source
+2734,Intermittent fasting may improve some health markers,uncertain,health_journal
+2735,Exercise helps maintain cardiovascular health,reliable,health_journal
+2736,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2737,Doctors hide natural cures from patients,myth,youtube
+2738,lemon water cures all diseases,myth,health_journal
+2739,garlic may help improve concentration,uncertain,social_media
+2740,Doctors hide natural cures from patients,myth,health_journal
+2741,Eating fruits and vegetables supports immunity,reliable,youtube
+2742,Regular sleep supports brain function,reliable,blog
+2743,ginger tea instantly lowers blood sugar,myth,health_journal
+2744,Eating fruits and vegetables supports immunity,reliable,social_media
+2745,Regular sleep supports brain function,reliable,youtube
+2746,garlic could help with digestion,uncertain,medical_source
+2747,Doctors hide natural cures from patients,myth,medical_source
+2748,apple cider vinegar cures all diseases,myth,social_media
+2749,garlic could help with digestion,uncertain,forum
+2750,lemon water could help with digestion,uncertain,tiktok
+2751,turmeric may help improve concentration,uncertain,forum
+2752,Intermittent fasting may improve some health markers,uncertain,social_media
+2753,Green tea might support metabolism,uncertain,health_journal
+2754,Exercise helps maintain cardiovascular health,reliable,health_journal
+2755,Doctors hide natural cures from patients,myth,social_media
+2756,Regular sleep supports brain function,reliable,health_journal
+2757,Drinking only juice detoxes the body completely,myth,medical_source
+2758,Drinking only juice detoxes the body completely,myth,health_journal
+2759,Green tea might support metabolism,uncertain,medical_source
+2760,apple cider vinegar may help improve concentration,uncertain,blog
+2761,Regular sleep supports brain function,reliable,medical_source
+2762,Regular sleep supports brain function,reliable,health_journal
+2763,turmeric instantly lowers blood sugar,myth,tiktok
+2764,turmeric could help with digestion,uncertain,forum
+2765,Eating fruits and vegetables supports immunity,reliable,health_journal
+2766,green tea instantly lowers blood sugar,myth,health_journal
+2767,Regular sleep supports brain function,reliable,tiktok
+2768,Eating fruits and vegetables supports immunity,reliable,social_media
+2769,Vaccines permanently weaken the immune system,myth,forum
+2770,Intermittent fasting may improve some health markers,uncertain,youtube
+2771,turmeric cures all diseases,myth,social_media
+2772,Intermittent fasting may improve some health markers,uncertain,tiktok
+2773,Intermittent fasting may improve some health markers,uncertain,forum
+2774,Vaccines permanently weaken the immune system,myth,tiktok
+2775,Exercise helps maintain cardiovascular health,reliable,health_journal
+2776,Vaccines permanently weaken the immune system,myth,health_journal
+2777,green tea may help improve concentration,uncertain,tiktok
+2778,garlic cures all diseases,myth,youtube
+2779,Eating fruits and vegetables supports immunity,reliable,tiktok
+2780,Exercise helps maintain cardiovascular health,reliable,social_media
+2781,Regular sleep supports brain function,reliable,tiktok
+2782,lemon water may help improve concentration,uncertain,medical_source
+2783,Exercise helps maintain cardiovascular health,reliable,tiktok
+2784,Intermittent fasting may improve some health markers,uncertain,blog
+2785,garlic could help with digestion,uncertain,social_media
+2786,Vaccination reduces risk of infectious diseases,reliable,blog
+2787,ginger tea could help with digestion,uncertain,health_journal
+2788,Green tea might support metabolism,uncertain,youtube
+2789,green tea could help with digestion,uncertain,medical_source
+2790,Intermittent fasting may improve some health markers,uncertain,tiktok
+2791,ginger tea could help with digestion,uncertain,forum
+2792,ginger tea could help with digestion,uncertain,health_journal
+2793,lemon water may help improve concentration,uncertain,blog
+2794,Drinking only juice detoxes the body completely,myth,tiktok
+2795,Vaccination reduces risk of infectious diseases,reliable,blog
+2796,Intermittent fasting may improve some health markers,uncertain,social_media
+2797,Eating fruits and vegetables supports immunity,reliable,youtube
+2798,apple cider vinegar cures all diseases,myth,forum
+2799,Regular sleep supports brain function,reliable,forum
+2800,Vaccines permanently weaken the immune system,myth,tiktok
+2801,honey may help improve concentration,uncertain,social_media
+2802,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2803,green tea cures all diseases,myth,medical_source
+2804,Exercise helps maintain cardiovascular health,reliable,forum
+2805,Vaccination reduces risk of infectious diseases,reliable,youtube
+2806,Exercise helps maintain cardiovascular health,reliable,tiktok
+2807,Certain herbal remedies may reduce stress,uncertain,health_journal
+2808,green tea cures all diseases,myth,forum
+2809,Drinking only juice detoxes the body completely,myth,blog
+2810,Exercise helps maintain cardiovascular health,reliable,medical_source
+2811,Certain herbal remedies may reduce stress,uncertain,forum
+2812,Intermittent fasting may improve some health markers,uncertain,blog
+2813,Green tea might support metabolism,uncertain,tiktok
+2814,Exercise helps maintain cardiovascular health,reliable,medical_source
+2815,Green tea might support metabolism,uncertain,youtube
+2816,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2817,Exercise helps maintain cardiovascular health,reliable,forum
+2818,garlic could help with digestion,uncertain,youtube
+2819,Eating fruits and vegetables supports immunity,reliable,youtube
+2820,honey could help with digestion,uncertain,blog
+2821,Intermittent fasting may improve some health markers,uncertain,social_media
+2822,Exercise helps maintain cardiovascular health,reliable,blog
+2823,Green tea might support metabolism,uncertain,blog
+2824,apple cider vinegar cures all diseases,myth,blog
+2825,Certain herbal remedies may reduce stress,uncertain,social_media
+2826,Vaccines permanently weaken the immune system,myth,social_media
+2827,Doctors hide natural cures from patients,myth,social_media
+2828,Eating fruits and vegetables supports immunity,reliable,tiktok
+2829,Drinking only juice detoxes the body completely,myth,medical_source
+2830,apple cider vinegar instantly lowers blood sugar,myth,medical_source
+2831,Washing hands reduces spread of bacteria and viruses,reliable,blog
+2832,Regular sleep supports brain function,reliable,forum
+2833,Doctors hide natural cures from patients,myth,social_media
+2834,honey cures all diseases,myth,health_journal
+2835,garlic could help with digestion,uncertain,blog
+2836,lemon water may help improve concentration,uncertain,youtube
+2837,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2838,Exercise helps maintain cardiovascular health,reliable,health_journal
+2839,ginger tea may help improve concentration,uncertain,youtube
+2840,Vaccines permanently weaken the immune system,myth,forum
+2841,turmeric instantly lowers blood sugar,myth,medical_source
+2842,garlic cures all diseases,myth,medical_source
+2843,Doctors hide natural cures from patients,myth,medical_source
+2844,Doctors hide natural cures from patients,myth,blog
+2845,Certain herbal remedies may reduce stress,uncertain,medical_source
+2846,Intermittent fasting may improve some health markers,uncertain,social_media
+2847,green tea cures all diseases,myth,tiktok
+2848,Drinking only juice detoxes the body completely,myth,social_media
+2849,honey instantly lowers blood sugar,myth,forum
+2850,green tea instantly lowers blood sugar,myth,blog
+2851,Eating fruits and vegetables supports immunity,reliable,forum
+2852,Vaccines permanently weaken the immune system,myth,blog
+2853,honey instantly lowers blood sugar,myth,medical_source
+2854,green tea could help with digestion,uncertain,medical_source
+2855,green tea cures all diseases,myth,social_media
+2856,turmeric may help improve concentration,uncertain,youtube
+2857,Certain herbal remedies may reduce stress,uncertain,youtube
+2858,Doctors hide natural cures from patients,myth,social_media
+2859,Intermittent fasting may improve some health markers,uncertain,forum
+2860,turmeric instantly lowers blood sugar,myth,social_media
+2861,turmeric could help with digestion,uncertain,social_media
+2862,apple cider vinegar cures all diseases,myth,health_journal
+2863,Doctors hide natural cures from patients,myth,blog
+2864,green tea cures all diseases,myth,social_media
+2865,Intermittent fasting may improve some health markers,uncertain,social_media
+2866,Doctors hide natural cures from patients,myth,tiktok
+2867,Exercise helps maintain cardiovascular health,reliable,social_media
+2868,Eating fruits and vegetables supports immunity,reliable,blog
+2869,lemon water cures all diseases,myth,forum
+2870,Washing hands reduces spread of bacteria and viruses,reliable,tiktok
+2871,Vaccines permanently weaken the immune system,myth,social_media
+2872,Exercise helps maintain cardiovascular health,reliable,forum
+2873,Eating fruits and vegetables supports immunity,reliable,medical_source
+2874,Regular sleep supports brain function,reliable,forum
+2875,Vaccination reduces risk of infectious diseases,reliable,forum
+2876,Drinking only juice detoxes the body completely,myth,youtube
+2877,ginger tea instantly lowers blood sugar,myth,forum
+2878,Vaccines permanently weaken the immune system,myth,medical_source
+2879,Certain herbal remedies may reduce stress,uncertain,health_journal
+2880,ginger tea could help with digestion,uncertain,medical_source
+2881,Drinking only juice detoxes the body completely,myth,medical_source
+2882,Vaccines permanently weaken the immune system,myth,youtube
+2883,Regular sleep supports brain function,reliable,social_media
+2884,Certain herbal remedies may reduce stress,uncertain,youtube
+2885,Vaccination reduces risk of infectious diseases,reliable,forum
+2886,Drinking only juice detoxes the body completely,myth,health_journal
+2887,Exercise helps maintain cardiovascular health,reliable,forum
+2888,Intermittent fasting may improve some health markers,uncertain,tiktok
+2889,Regular sleep supports brain function,reliable,medical_source
+2890,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2891,Exercise helps maintain cardiovascular health,reliable,blog
+2892,Vaccination reduces risk of infectious diseases,reliable,blog
+2893,Drinking only juice detoxes the body completely,myth,health_journal
+2894,garlic cures all diseases,myth,forum
+2895,Intermittent fasting may improve some health markers,uncertain,blog
+2896,Exercise helps maintain cardiovascular health,reliable,social_media
+2897,Exercise helps maintain cardiovascular health,reliable,health_journal
+2898,Vaccination reduces risk of infectious diseases,reliable,social_media
+2899,Doctors hide natural cures from patients,myth,tiktok
+2900,Drinking only juice detoxes the body completely,myth,blog
+2901,Doctors hide natural cures from patients,myth,social_media
+2902,Drinking only juice detoxes the body completely,myth,health_journal
+2903,Doctors hide natural cures from patients,myth,blog
+2904,apple cider vinegar instantly lowers blood sugar,myth,tiktok
+2905,Eating fruits and vegetables supports immunity,reliable,medical_source
+2906,honey could help with digestion,uncertain,social_media
+2907,ginger tea instantly lowers blood sugar,myth,social_media
+2908,Vaccines permanently weaken the immune system,myth,youtube
+2909,turmeric may help improve concentration,uncertain,blog
+2910,Doctors hide natural cures from patients,myth,blog
+2911,ginger tea may help improve concentration,uncertain,blog
+2912,Green tea might support metabolism,uncertain,youtube
+2913,turmeric may help improve concentration,uncertain,social_media
+2914,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2915,honey may help improve concentration,uncertain,medical_source
+2916,Doctors hide natural cures from patients,myth,social_media
+2917,Certain herbal remedies may reduce stress,uncertain,tiktok
+2918,Vaccination reduces risk of infectious diseases,reliable,social_media
+2919,Doctors hide natural cures from patients,myth,youtube
+2920,honey may help improve concentration,uncertain,blog
+2921,Drinking only juice detoxes the body completely,myth,tiktok
+2922,Eating fruits and vegetables supports immunity,reliable,forum
+2923,turmeric instantly lowers blood sugar,myth,social_media
+2924,Regular sleep supports brain function,reliable,forum
+2925,garlic may help improve concentration,uncertain,tiktok
+2926,Doctors hide natural cures from patients,myth,forum
+2927,Vaccination reduces risk of infectious diseases,reliable,health_journal
+2928,Intermittent fasting may improve some health markers,uncertain,forum
+2929,Drinking only juice detoxes the body completely,myth,youtube
+2930,Vaccines permanently weaken the immune system,myth,tiktok
+2931,turmeric could help with digestion,uncertain,health_journal
+2932,apple cider vinegar may help improve concentration,uncertain,medical_source
+2933,turmeric could help with digestion,uncertain,medical_source
+2934,Eating fruits and vegetables supports immunity,reliable,tiktok
+2935,ginger tea instantly lowers blood sugar,myth,blog
+2936,Exercise helps maintain cardiovascular health,reliable,youtube
+2937,honey may help improve concentration,uncertain,blog
+2938,Certain herbal remedies may reduce stress,uncertain,forum
+2939,Regular sleep supports brain function,reliable,social_media
+2940,Vaccination reduces risk of infectious diseases,reliable,blog
+2941,ginger tea may help improve concentration,uncertain,forum
+2942,green tea could help with digestion,uncertain,youtube
+2943,turmeric could help with digestion,uncertain,health_journal
+2944,Drinking only juice detoxes the body completely,myth,forum
+2945,Drinking only juice detoxes the body completely,myth,tiktok
+2946,Green tea might support metabolism,uncertain,health_journal
+2947,Intermittent fasting may improve some health markers,uncertain,health_journal
+2948,Eating fruits and vegetables supports immunity,reliable,tiktok
+2949,Certain herbal remedies may reduce stress,uncertain,tiktok
+2950,Exercise helps maintain cardiovascular health,reliable,youtube
+2951,lemon water could help with digestion,uncertain,forum
+2952,Drinking only juice detoxes the body completely,myth,forum
+2953,Washing hands reduces spread of bacteria and viruses,reliable,social_media
+2954,Regular sleep supports brain function,reliable,health_journal
+2955,Drinking only juice detoxes the body completely,myth,youtube
+2956,Green tea might support metabolism,uncertain,medical_source
+2957,Eating fruits and vegetables supports immunity,reliable,blog
+2958,Eating fruits and vegetables supports immunity,reliable,social_media
+2959,Drinking only juice detoxes the body completely,myth,tiktok
+2960,honey cures all diseases,myth,health_journal
+2961,Drinking only juice detoxes the body completely,myth,blog
+2962,Green tea might support metabolism,uncertain,youtube
+2963,Green tea might support metabolism,uncertain,social_media
+2964,Vaccination reduces risk of infectious diseases,reliable,youtube
+2965,Intermittent fasting may improve some health markers,uncertain,medical_source
+2966,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+2967,Intermittent fasting may improve some health markers,uncertain,medical_source
+2968,green tea could help with digestion,uncertain,youtube
+2969,Vaccination reduces risk of infectious diseases,reliable,social_media
+2970,turmeric instantly lowers blood sugar,myth,forum
+2971,garlic cures all diseases,myth,health_journal
+2972,Certain herbal remedies may reduce stress,uncertain,social_media
+2973,Exercise helps maintain cardiovascular health,reliable,youtube
+2974,Green tea might support metabolism,uncertain,social_media
+2975,Eating fruits and vegetables supports immunity,reliable,health_journal
+2976,Eating fruits and vegetables supports immunity,reliable,social_media
+2977,Certain herbal remedies may reduce stress,uncertain,forum
+2978,Intermittent fasting may improve some health markers,uncertain,youtube
+2979,Certain herbal remedies may reduce stress,uncertain,youtube
+2980,ginger tea may help improve concentration,uncertain,tiktok
+2981,Exercise helps maintain cardiovascular health,reliable,social_media
+2982,lemon water could help with digestion,uncertain,blog
+2983,turmeric cures all diseases,myth,blog
+2984,Intermittent fasting may improve some health markers,uncertain,blog
+2985,Drinking only juice detoxes the body completely,myth,social_media
+2986,Vaccines permanently weaken the immune system,myth,tiktok
+2987,Exercise helps maintain cardiovascular health,reliable,blog
+2988,Certain herbal remedies may reduce stress,uncertain,blog
+2989,Vaccination reduces risk of infectious diseases,reliable,medical_source
+2990,Intermittent fasting may improve some health markers,uncertain,blog
+2991,ginger tea instantly lowers blood sugar,myth,forum
+2992,Vaccination reduces risk of infectious diseases,reliable,social_media
+2993,Vaccines permanently weaken the immune system,myth,social_media
+2994,Vaccines permanently weaken the immune system,myth,youtube
+2995,apple cider vinegar instantly lowers blood sugar,myth,blog
+2996,Vaccination reduces risk of infectious diseases,reliable,forum
+2997,green tea may help improve concentration,uncertain,tiktok
+2998,honey could help with digestion,uncertain,blog
+2999,Washing hands reduces spread of bacteria and viruses,reliable,medical_source
+3000,Vaccines permanently weaken the immune system,myth,blog
