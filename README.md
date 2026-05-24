@@ -54,7 +54,7 @@ MedTruth/
    - Dual fine-tuning approaches
    - Automatic model selection
 
-2. **method_comparison.png** 
+2. **modelscompariosn** 
 
 ### Configuration & Setup
 - **requirements.txt** - All dependencies
