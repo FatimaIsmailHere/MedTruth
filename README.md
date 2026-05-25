@@ -1,4 +1,4 @@
-# 🎉 MedTruth Project - COMPLETE IMPLEMENTATION
+#  MedTruth 
 
 ## Project Overview
 MedTruth is an NLP course project that implements a DistilBERT-based text classification model to detect health misinformation. The model classifies health claims into three categories:
@@ -54,7 +54,7 @@ MedTruth/
    - Dual fine-tuning approaches
    - Automatic model selection
 
-2. **method_comparison.png** 
+2. **modelscompariosn** 
 
 ### Configuration & Setup
 - **requirements.txt** - All dependencies
